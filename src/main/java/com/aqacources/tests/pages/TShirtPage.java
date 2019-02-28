@@ -1,7 +1,9 @@
 package com.aqacources.tests.pages;
 
 import com.aqacources.tests.base.BaseTest;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
 
 /** Created by Marina on 26.02.2019. */
 public class TShirtPage extends AbstractPage {
@@ -14,6 +16,10 @@ public class TShirtPage extends AbstractPage {
   public TShirtPage(BaseTest testClass) {
     super(testClass);
   }
+
+  // Web Elements
+  @FindBy(xpath = "//div[@class='product-container']")
+  private WebElement productCOntainer;
 
   /**
    * Click to Product Page

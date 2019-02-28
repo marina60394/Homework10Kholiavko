@@ -32,9 +32,6 @@ public class BaseTest {
   // Product loader element
   private static final String LOADING_PRODUCT = "//ul[@class='product_list grid row']/p";
 
-  private static final String PRODUCT_QUANTITY =
-      "//td[@class='cart_quantity text-center']/input[@type='hidden']";
-
   /** Constructor */
   public BaseTest() {
     System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
@@ -84,6 +81,13 @@ public class BaseTest {
     wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath(LOADING_PRODUCT)));
   }
 
+  /** Wait till Loadet isn't present */
+  public void waitTilltextToBePresentInElementValue(String locator, int expectedValue) {
+    wait.until(
+        ExpectedConditions.textToBePresentInElementValue(
+            By.xpath(locator), String.valueOf(expectedValue)));
+  }
+
   /**
    * Write down info message
    *
@@ -109,18 +113,5 @@ public class BaseTest {
    */
   public String getDateTime() {
     return new SimpleDateFormat("YYYY-MM-dd_HH-mm-ss").format(Calendar.getInstance().getTime());
-  }
-
-  /** Wait for increase quantity of products */
-  public void waitIncreaseElementValue() {
-    String currentQuantity = driver.findElement(By.xpath(PRODUCT_QUANTITY)).getAttribute("value");
-
-    int currentQuantityInt = Integer.parseInt(currentQuantity);
-
-    int expectedQuanttity = currentQuantityInt + 1;
-
-    wait.until(
-        ExpectedConditions.textToBePresentInElementValue(
-            By.xpath(PRODUCT_QUANTITY), String.valueOf(expectedQuanttity)));
   }
 }

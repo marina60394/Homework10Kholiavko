@@ -33,7 +33,7 @@ public class AbstractPage {
   private WebElement menuTShirts;
 
   @FindBy(xpath = "//div[@class='product-container']")
-  WebElement productCOntainer;
+  private WebElement productCOntainer;
 
   @FindBy(xpath = "//div[@class='button-container']/a[@title='View']")
   WebElement buttonViewForProduct;

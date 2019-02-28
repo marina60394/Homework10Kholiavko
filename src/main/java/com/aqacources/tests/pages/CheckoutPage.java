@@ -2,12 +2,16 @@ package com.aqacources.tests.pages;
 
 import com.aqacources.tests.base.BaseTest;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 /** Created by Marina on 27.02.2019. */
 public class CheckoutPage extends AbstractPage {
 
+  private static final String PRODUCT_QUANTITY =
+      "//td[@class='cart_quantity text-center']/input[@type='hidden']";
   private static final String MESSAGE_EMPTY_SHOPPING_CART = "Your shopping cart is empty.";
   private static final double DELTA = 1e-15;
 
@@ -41,13 +45,25 @@ public class CheckoutPage extends AbstractPage {
     super(testClass);
   }
 
+  /** Wait for increase quantity of products */
+  public void waitIncreaseElementValue() {
+    String currentQuantity =
+        testClass.getDriver().findElement(By.xpath(PRODUCT_QUANTITY)).getAttribute("value");
+
+    int currentQuantityInt = Integer.parseInt(currentQuantity);
+
+    int expectedQuanttity = currentQuantityInt + 1;
+
+    testClass.waitTilltextToBePresentInElementValue(PRODUCT_QUANTITY, expectedQuanttity);
+  }
+
   /** increase quantity of products */
   public void clickToIncreaseQuantity() {
     testClass.waitTillElementIsVisible(iconIncreaseQuantity);
 
     iconIncreaseQuantity.click();
 
-    testClass.waitIncreaseElementValue();
+    waitIncreaseElementValue();
   }
 
   /** check total price is the same productPrice*quantity */
