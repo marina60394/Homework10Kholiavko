@@ -1,0 +1,1058 @@
+2019-44-26 21:44:55.317 [main] INFO   - Open site
+2019-44-26 21:44:57.442 [main] INFO   - Click Sign In
+2019-44-26 21:44:57.452 [main] INFO   - Get Title for page after Log In - Login Page
+2019-45-26 21:45:00.374 [main] INFO   - User Authorization
+2019-45-26 21:45:00.481 [main] INFO   - Check Customer Name
+2019-45-26 21:45:03.500 [main] INFO   - Log Out
+2019-45-26 21:45:03.518 [main] INFO   - Get Title from page after log out  Login Page
+2019-45-26 21:45:03.519 [main] INFO   - Check that page after clickSignIn Link and after log out is the same
+2019-45-26 21:45:04.783 [main] INFO   - Close site
+2019-50-26 21:50:25.592 [main] INFO   - Open site
+2019-50-26 21:50:27.971 [main] INFO   - Click Sgn In
+2019-50-26 21:50:31.040 [main] INFO   - Authorization on the site
+2019-50-26 21:50:33.920 [main] INFO   - Click menu Dressses
+2019-50-26 21:50:36.731 [main] INFO   - Click Summer Dresses
+2019-50-26 21:50:36.866 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-50-26 21:50:37.134 [main] INFO   - CLick to Filter color White
+2019-50-26 21:50:39.220 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-51-26 21:51:13.896 [main] INFO   - Open site
+2019-51-26 21:51:17.589 [main] INFO   - Click Sgn In
+2019-51-26 21:51:21.530 [main] INFO   - Authorization on the site
+2019-51-26 21:51:25.230 [main] INFO   - Click menu Dressses
+2019-51-26 21:51:29.017 [main] INFO   - Click Summer Dresses
+2019-51-26 21:51:29.145 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-51-26 21:51:40.699 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@style='background: #ffffff1;']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-52-26 21:52:24.508 [main] INFO   - Open site
+2019-52-26 21:52:27.902 [main] INFO   - Click Sgn In
+2019-52-26 21:52:31.339 [main] INFO   - Authorization on the site
+2019-52-26 21:52:34.415 [main] INFO   - Click menu Dressses
+2019-52-26 21:52:37.686 [main] INFO   - Click Summer Dresses
+2019-52-26 21:52:37.834 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-52-26 21:52:38.139 [main] INFO   - CLick to Filter color White
+2019-52-26 21:52:39.977 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-06-26 22:06:13.421 [main] INFO   - Open site
+2019-06-26 22:06:16.418 [main] INFO   - Click Sgn In
+2019-06-26 22:06:20.798 [main] INFO   - Authorization on the site
+2019-06-26 22:06:24.291 [main] INFO   - Click menu Dressses
+2019-06-26 22:06:27.530 [main] INFO   - Click Summer Dresses
+2019-06-26 22:06:27.641 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-06-26 22:06:27.853 [main] INFO   - CLick to Filter color White
+2019-06-26 22:06:29.895 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-07-26 22:07:03.141 [main] INFO   - Open site
+2019-07-26 22:07:06.127 [main] INFO   - Click Sgn In
+2019-07-26 22:07:10.478 [main] INFO   - Authorization on the site
+2019-07-26 22:07:14.710 [main] INFO   - Click menu Dressses
+2019-07-26 22:07:17.538 [main] INFO   - Click Summer Dresses
+2019-07-26 22:07:20.106 [main] INFO   - Click menu T-Shirts
+2019-07-26 22:07:44.533 [main] INFO   - Open site
+2019-07-26 22:07:47.855 [main] INFO   - Click Sgn In
+2019-07-26 22:07:51.692 [main] INFO   - Authorization on the site
+2019-07-26 22:07:54.991 [main] INFO   - Click menu Dressses
+2019-07-26 22:07:59.456 [main] INFO   - Click Summer Dresses
+2019-08-26 22:08:02.070 [main] INFO   - Click menu T-Shirts
+2019-13-26 22:13:31.924 [main] INFO   - Open site
+2019-13-26 22:13:37.137 [main] INFO   - Click Sgn In
+2019-13-26 22:13:42.107 [main] INFO   - Authorization on the site
+2019-13-26 22:13:44.932 [main] INFO   - Click menu Dressses
+2019-13-26 22:13:48.334 [main] INFO   - Click Summer Dresses
+2019-13-26 22:13:50.449 [main] INFO   - Click menu T-Shirts
+2019-13-26 22:13:50.741 [main] INFO   - Click to Product Container
+2019-14-26 22:14:33.795 [main] INFO   - Open site
+2019-14-26 22:14:36.764 [main] INFO   - Click Sgn In
+2019-14-26 22:14:41.053 [main] INFO   - Authorization on the site
+2019-14-26 22:14:44.618 [main] INFO   - Click menu Dressses
+2019-14-26 22:14:47.504 [main] INFO   - Click Summer Dresses
+2019-14-26 22:14:50.543 [main] INFO   - Click menu T-Shirts
+2019-14-26 22:14:50.882 [main] INFO   - Click to Product Container
+2019-39-26 22:39:46.712 [main] INFO   - Open site
+2019-39-26 22:39:49.289 [main] INFO   - Click Sgn In
+2019-39-26 22:39:53.274 [main] INFO   - Authorization on the site
+2019-39-26 22:39:56.671 [main] INFO   - Click menu Dressses
+2019-40-26 22:40:00.159 [main] INFO   - Click Summer Dresses
+2019-40-26 22:40:04.290 [main] INFO   - Click menu T-Shirts
+2019-40-26 22:40:04.581 [main] INFO   - Click to Product Container
+2019-55-26 22:55:33.812 [main] INFO   - Open site
+2019-55-26 22:55:36.069 [main] INFO   - Click Sgn In
+2019-55-26 22:55:39.977 [main] INFO   - Authorization on the site
+2019-55-26 22:55:42.491 [main] INFO   - Click menu Dressses
+2019-55-26 22:55:44.709 [main] INFO   - Click Summer Dresses
+2019-55-26 22:55:46.545 [main] INFO   - Click menu T-Shirts
+2019-55-26 22:55:46.728 [main] INFO   - Click to Product Container
+2019-59-26 22:59:24.824 [main] INFO   - Open site
+2019-59-26 22:59:29.806 [main] INFO   - Click Sgn In
+2019-59-26 22:59:33.418 [main] INFO   - Authorization on the site
+2019-59-26 22:59:36.304 [main] INFO   - Click menu Dressses
+2019-59-26 22:59:38.781 [main] INFO   - Click Summer Dresses
+2019-59-26 22:59:41.838 [main] INFO   - Click menu T-Shirts
+2019-59-26 22:59:42.562 [main] INFO   - Click to Product Container
+2019-08-26 23:08:24.330 [main] INFO   - Open site
+2019-08-26 23:08:28.488 [main] INFO   - Click Sgn In
+2019-08-26 23:08:33.515 [main] INFO   - Authorization on the site
+2019-08-26 23:08:38.916 [main] INFO   - Click menu Dressses
+2019-08-26 23:08:43.216 [main] INFO   - Click Summer Dresses
+2019-08-26 23:08:47.785 [main] INFO   - Click menu T-Shirts
+2019-08-26 23:08:48.145 [main] INFO   - Click to Product Container
+2019-08-26 23:08:48.938 [main] ERROR  - invalid selector: Unable to locate an element with the xpath expression //div[@class='breadcrumb clearfix] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='breadcrumb clearfix]' is not a valid XPath expression.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:23018}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: dcf55774cbf334afad0cce4cef4009de
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix]}
+2019-10-26 23:10:50.342 [main] INFO   - Open site
+2019-10-26 23:10:54.888 [main] INFO   - Click Sgn In
+2019-10-26 23:10:59.353 [main] INFO   - Authorization on the site
+2019-11-26 23:11:03.617 [main] INFO   - Click menu Dressses
+2019-11-26 23:11:06.446 [main] INFO   - Click Summer Dresses
+2019-11-26 23:11:08.379 [main] INFO   - Click menu T-Shirts
+2019-11-26 23:11:08.628 [main] INFO   - Click to Product Container
+2019-12-26 23:12:25.722 [main] INFO   - Open site
+2019-12-26 23:12:28.956 [main] INFO   - Click Sgn In
+2019-12-26 23:12:33.332 [main] INFO   - Authorization on the site
+2019-12-26 23:12:36.803 [main] INFO   - Click menu Dressses
+2019-12-26 23:12:39.810 [main] INFO   - Click Summer Dresses
+2019-12-26 23:12:43.051 [main] INFO   - Click menu T-Shirts
+2019-12-26 23:12:43.376 [main] INFO   - Click to Product Container
+2019-29-26 23:29:36.341 [main] INFO   - Open site
+2019-29-26 23:29:39.274 [main] INFO   - Click Sgn In
+2019-29-26 23:29:41.882 [main] INFO   - Authorization on the site
+2019-29-26 23:29:44.713 [main] INFO   - Click menu Dressses
+2019-29-26 23:29:47.568 [main] INFO   - Click Summer Dresses
+2019-29-26 23:29:49.743 [main] INFO   - Click menu T-Shirts
+2019-29-26 23:29:49.987 [main] INFO   - Click to Product Container
+2019-29-26 23:29:50.915 [main] ERROR  - invalid selector: The result of the xpath expression "//div[@class='breadcrumb clearfix']/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:24441}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 88ad4644814ad4e303d4fa98eaf4419f
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']/text()}
+2019-32-26 23:32:32.259 [main] INFO   - Open site
+2019-32-26 23:32:35.026 [main] INFO   - Click Sgn In
+2019-32-26 23:32:39.324 [main] INFO   - Authorization on the site
+2019-32-26 23:32:43.678 [main] INFO   - Click menu Dressses
+2019-32-26 23:32:46.285 [main] INFO   - Click Summer Dresses
+2019-32-26 23:32:48.595 [main] INFO   - Click menu T-Shirts
+2019-32-26 23:32:48.755 [main] INFO   - Click to Product Container
+2019-39-26 23:39:45.397 [main] INFO   - Open site
+2019-39-26 23:39:49.912 [main] INFO   - Click Sgn In
+2019-39-26 23:39:53.720 [main] INFO   - Authorization on the site
+2019-39-26 23:39:56.709 [main] INFO   - Click menu Dressses
+2019-39-26 23:39:59.523 [main] INFO   - Click Summer Dresses
+2019-40-26 23:40:02.030 [main] INFO   - Click menu T-Shirts
+2019-40-26 23:40:02.421 [main] INFO   - Click to Product Container
+2019-41-26 23:41:10.045 [main] INFO   - Open site
+2019-41-26 23:41:24.060 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-41-26 23:41:51.039 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-43-26 23:43:16.285 [main] INFO   - Open site
+2019-43-26 23:43:20.489 [main] INFO   - Click Sgn In
+2019-43-26 23:43:26.524 [main] INFO   - Authorization on the site
+2019-43-26 23:43:30.139 [main] INFO   - Click menu Dressses
+2019-43-26 23:43:32.789 [main] INFO   - Click Summer Dresses
+2019-43-26 23:43:35.126 [main] INFO   - Click menu T-Shirts
+2019-43-26 23:43:35.402 [main] INFO   - Click to Product Container
+2019-43-26 23:43:36.340 [main] ERROR  - invalid selector: The result of the xpath expression "//div[@class='breadcrumb clearfix']/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:25397}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: da58a0c5dd37f1069c42df57a97c0015
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']/text()}
+2019-47-26 23:47:55.440 [main] INFO   - Open site
+2019-47-26 23:47:57.704 [main] INFO   - Click Sgn In
+2019-48-26 23:48:11.387 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-53-26 23:53:08.559 [main] INFO   - Open site
+2019-53-26 23:53:38.078 [main] INFO   - Open site
+2019-53-26 23:53:41.122 [main] INFO   - Click Sgn In
+2019-53-26 23:53:44.367 [main] INFO   - Authorization on the site
+2019-53-26 23:53:48.095 [main] INFO   - Click menu T-Shirts
+2019-53-26 23:53:48.717 [main] INFO   - Click to Product Container
+2019-53-26 23:53:49.579 [main] ERROR  - invalid selector: The result of the xpath expression "//div[@class='breadcrumb clearfix']/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:26082}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 7c16b70e42a16c25de5e2cf7cd6a119d
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']/text()}
+2019-59-26 23:59:05.295 [main] INFO   - Open site
+2019-59-26 23:59:07.818 [main] INFO   - Click Sgn In
+2019-59-26 23:59:21.507 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-59-26 23:59:54.425 [main] INFO   - Open site
+2019-59-26 23:59:57.499 [main] INFO   - Click Sgn In
+2019-00-27 00:00:10.458 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-09-27 00:09:38.950 [main] INFO   - Open site
+2019-09-27 00:09:41.295 [main] INFO   - Click Sgn In
+2019-09-27 00:09:44.097 [main] INFO   - Authorization on the site
+2019-09-27 00:09:46.428 [main] INFO   - Click menu T-Shirts
+2019-09-27 00:09:46.719 [main] INFO   - Click to Product Container
+2019-10-27 00:10:58.941 [main] INFO   - Open site
+2019-11-27 00:11:01.244 [main] INFO   - Click Sgn In
+2019-11-27 00:11:14.309 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-12-27 00:12:39.058 [main] INFO   - Open site
+2019-13-27 00:13:15.455 [main] INFO   - Open site
+2019-13-27 00:13:18.093 [main] INFO   - Click Sgn In
+2019-13-27 00:13:20.875 [main] INFO   - Authorization on the site
+2019-13-27 00:13:23.218 [main] INFO   - Click menu T-Shirts
+2019-13-27 00:13:23.421 [main] INFO   - Click to Product Container
+2019-16-27 00:16:42.690 [main] INFO   - Open site
+2019-16-27 00:16:45.032 [main] INFO   - Click Sgn In
+2019-16-27 00:16:47.802 [main] INFO   - Authorization on the site
+2019-16-27 00:16:50.369 [main] INFO   - Click menu T-Shirts
+2019-16-27 00:16:50.600 [main] INFO   - Click to Product Container
+2019-16-27 00:16:51.440 [main] ERROR  - invalid selector: The result of the xpath expression "//div[@class='breadcrumb clearfix']/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:27622}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 63f884e026064a130b042f56bcca806c
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']/text()}
+2019-18-27 00:18:59.687 [main] INFO   - Open site
+2019-19-27 00:19:01.821 [main] INFO   - Click Sgn In
+2019-19-27 00:19:04.499 [main] INFO   - Authorization on the site
+2019-19-27 00:19:06.743 [main] INFO   - Click menu T-Shirts
+2019-19-27 00:19:06.951 [main] INFO   - Click to Product Container
+2019-26-27 00:26:30.943 [main] INFO   - Open site
+2019-26-27 00:26:33.894 [main] INFO   - Click Sgn In
+2019-26-27 00:26:37.032 [main] INFO   - Authorization on the site
+2019-26-27 00:26:39.526 [main] INFO   - Click menu T-Shirts
+2019-26-27 00:26:39.717 [main] INFO   - Click to Product Container
+2019-27-27 00:27:25.209 [main] INFO   - Open site
+2019-27-27 00:27:27.713 [main] INFO   - Click Sgn In
+2019-27-27 00:27:30.574 [main] INFO   - Authorization on the site
+2019-27-27 00:27:33.214 [main] INFO   - Click menu T-Shirts
+2019-27-27 00:27:33.471 [main] INFO   - Click to Product Container
+2019-29-27 00:29:13.623 [main] INFO   - Open site
+2019-29-27 00:29:15.650 [main] INFO   - Click Sgn In
+2019-29-27 00:29:18.132 [main] INFO   - Authorization on the site
+2019-29-27 00:29:20.279 [main] INFO   - Click menu T-Shirts
+2019-29-27 00:29:20.489 [main] INFO   - Click to Product Container
+2019-30-27 00:30:12.246 [main] INFO   - Open site
+2019-30-27 00:30:14.498 [main] INFO   - Click menu T-Shirts
+2019-30-27 00:30:14.769 [main] INFO   - Click to Product Container
+2019-31-27 00:31:12.859 [main] INFO   - Open site
+2019-31-27 00:31:14.906 [main] INFO   - Click menu T-Shirts
+2019-31-27 00:31:15.202 [main] INFO   - Click to Product Container
+2019-31-27 00:31:15.380 [main] INFO   - breadcrumb
+2019-31-27 00:31:54.542 [main] INFO   - Open site
+2019-31-27 00:31:56.908 [main] INFO   - Click menu T-Shirts
+2019-31-27 00:31:57.292 [main] INFO   - Click to Product Container
+2019-31-27 00:31:57.405 [main] INFO   - breadcrumb
+2019-34-27 00:34:41.415 [main] INFO   - Open site
+2019-34-27 00:34:43.501 [main] INFO   - Click menu T-Shirts
+2019-34-27 00:34:43.774 [main] INFO   - Click to Product Container
+2019-34-27 00:34:43.910 [main] INFO   - breadcrumb
+2019-35-27 00:35:19.569 [main] INFO   - Open site
+2019-35-27 00:35:22.291 [main] INFO   - Click menu T-Shirts
+2019-35-27 00:35:22.499 [main] INFO   - Click to Product Container
+2019-35-27 00:35:22.605 [main] INFO   - breadcrumb
+2019-37-27 00:37:02.043 [main] INFO   - Open site
+2019-37-27 00:37:04.142 [main] INFO   - Click menu T-Shirts
+2019-37-27 00:37:04.294 [main] INFO   - Click to Product Container
+2019-37-27 00:37:04.407 [main] INFO   - breadcrumb
+2019-38-27 00:38:05.050 [main] INFO   - Open site
+2019-38-27 00:38:07.655 [main] INFO   - Click menu T-Shirts
+2019-38-27 00:38:07.910 [main] INFO   - Click to Product Container
+2019-38-27 00:38:08.001 [main] INFO   - breadcrumb
+2019-39-27 00:39:00.738 [main] INFO   - Open site
+2019-39-27 00:39:02.869 [main] INFO   - Click menu T-Shirts
+2019-39-27 00:39:03.028 [main] INFO   - Click to Product Container
+2019-39-27 00:39:13.931 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='breadcrumb clearfix']/following-sibling::a' (tried for 10 second(s) with 500 milliseconds interval)
+2019-40-27 00:40:30.138 [main] INFO   - Open site
+2019-40-27 00:40:31.999 [main] INFO   - Click menu T-Shirts
+2019-40-27 00:40:32.206 [main] INFO   - Click to Product Container
+2019-40-27 00:40:32.328 [main] INFO   - breadcrumb
+2019-41-27 00:41:07.962 [main] INFO   - Open site
+2019-41-27 00:41:09.761 [main] INFO   - Click menu T-Shirts
+2019-41-27 00:41:10.020 [main] INFO   - Click to Product Container
+2019-41-27 00:41:10.128 [main] INFO   - breadcrumb
+2019-48-27 00:48:27.290 [main] INFO   - Open site
+2019-48-27 00:48:29.624 [main] INFO   - Click menu T-Shirts
+2019-48-27 00:48:29.847 [main] INFO   - Click to Product Container
+2019-48-27 00:48:29.964 [main] INFO   - breadcrumb
+2019-53-27 00:53:52.875 [main] INFO   - Open site
+2019-53-27 00:53:55.728 [main] INFO   - Click menu T-Shirts
+2019-53-27 00:53:55.950 [main] INFO   - Click to Product Container
+2019-53-27 00:53:56.578 [main] ERROR  - 5
+2019-56-27 00:56:07.451 [main] INFO   - Open site
+2019-56-27 00:56:09.525 [main] INFO   - Click Sgn In
+2019-56-27 00:56:12.130 [main] INFO   - Authorization on the site
+2019-56-27 00:56:14.486 [main] INFO   - Click menu Dressses
+2019-56-27 00:56:16.756 [main] INFO   - Click Summer Dresses
+2019-56-27 00:56:18.475 [main] INFO   - Click menu T-Shirts
+2019-56-27 00:56:18.618 [main] INFO   - Click to Product Container
+2019-56-27 00:56:18.664 [main] INFO   - breadcrumb
+2019-57-27 00:57:24.411 [main] INFO   - Open site
+2019-57-27 00:57:26.518 [main] INFO   - Click Sgn In
+2019-57-27 00:57:28.678 [main] INFO   - Authorization on the site
+2019-57-27 00:57:31.167 [main] INFO   - Click menu Dressses
+2019-57-27 00:57:33.467 [main] INFO   - Click Summer Dresses
+2019-57-27 00:57:35.059 [main] INFO   - Click menu T-Shirts
+2019-57-27 00:57:35.232 [main] INFO   - Click to Product Container
+2019-57-27 00:57:35.292 [main] INFO   - breadcrumb
+2019-58-27 00:58:21.948 [main] INFO   - Open site
+2019-58-27 00:58:24.030 [main] INFO   - Click Sgn In
+2019-58-27 00:58:26.264 [main] INFO   - Authorization on the site
+2019-58-27 00:58:28.927 [main] INFO   - Click menu Dressses
+2019-58-27 00:58:31.001 [main] INFO   - Click Summer Dresses
+2019-58-27 00:58:32.854 [main] INFO   - Click menu T-Shirts
+2019-58-27 00:58:33.016 [main] INFO   - Click to Product Container
+2019-58-27 00:58:33.575 [main] ERROR  - null
+2019-02-27 01:02:28.401 [main] INFO   - Open site
+2019-02-27 01:02:30.417 [main] INFO   - Click Sgn In
+2019-02-27 01:02:32.673 [main] INFO   - Authorization on the site
+2019-02-27 01:02:35.216 [main] INFO   - Click menu Dressses
+2019-02-27 01:02:37.742 [main] INFO   - Click Summer Dresses
+2019-02-27 01:02:39.383 [main] INFO   - Click menu T-Shirts
+2019-02-27 01:02:39.515 [main] INFO   - Click to Product Container
+2019-02-27 01:02:40.064 [main] ERROR  - com.aqacources.tests.tests.AddToCartTest cannot be cast to org.openqa.selenium.JavascriptExecutor
+2019-03-27 01:03:20.168 [main] INFO   - Open site
+2019-03-27 01:03:22.281 [main] INFO   - Click Sgn In
+2019-03-27 01:03:24.914 [main] INFO   - Authorization on the site
+2019-03-27 01:03:27.397 [main] INFO   - Click menu Dressses
+2019-03-27 01:03:29.600 [main] INFO   - Click Summer Dresses
+2019-03-27 01:03:31.320 [main] INFO   - Click menu T-Shirts
+2019-03-27 01:03:31.470 [main] INFO   - Click to Product Container
+2019-03-27 01:03:31.985 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='breadcrumb clearfix']"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:30825}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: de853a110da135fe1932205a28a348f2
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']}
+2019-04-27 01:04:36.179 [main] INFO   - Open site
+2019-04-27 01:04:39.011 [main] INFO   - Click Sgn In
+2019-04-27 01:04:41.116 [main] INFO   - Authorization on the site
+2019-04-27 01:04:43.362 [main] INFO   - Click menu Dressses
+2019-04-27 01:04:46.160 [main] INFO   - Click Summer Dresses
+2019-04-27 01:04:47.917 [main] INFO   - Click menu T-Shirts
+2019-04-27 01:04:48.080 [main] INFO   - Click to Product Container
+2019-04-27 01:04:48.634 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='breadcrumb clearfix']"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:30931}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 7872f0ce9b27928e76551c946e94bed2
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']}
+2019-05-27 01:05:12.688 [main] INFO   - Open site
+2019-05-27 01:05:14.703 [main] INFO   - Click Sgn In
+2019-05-27 01:05:17.865 [main] INFO   - Authorization on the site
+2019-05-27 01:05:20.392 [main] INFO   - Click menu Dressses
+2019-05-27 01:05:22.613 [main] INFO   - Click Summer Dresses
+2019-05-27 01:05:24.658 [main] INFO   - Click menu T-Shirts
+2019-05-27 01:05:24.803 [main] INFO   - Click to Product Container
+2019-05-27 01:05:25.257 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='breadcrumb clearfix']"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:31012}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 023077f57ca32a2bec9d3ebdf053cb0c
+*** Element info: {Using=xpath, value=//div[@class='breadcrumb clearfix']}
+2019-06-27 01:06:59.036 [main] INFO   - Open site
+2019-07-27 01:07:01.292 [main] INFO   - Click Sgn In
+2019-07-27 01:07:03.814 [main] INFO   - Authorization on the site
+2019-07-27 01:07:06.444 [main] INFO   - Click menu Dressses
+2019-07-27 01:07:08.693 [main] INFO   - Click Summer Dresses
+2019-07-27 01:07:10.312 [main] INFO   - Click menu T-Shirts
+2019-07-27 01:07:10.479 [main] INFO   - Click to Product Container
+2019-07-27 01:07:10.509 [main] INFO   - breadcrumb
+2019-08-27 01:08:28.496 [main] INFO   - Open site
+2019-08-27 01:08:32.786 [main] INFO   - Click Sgn In
+2019-08-27 01:08:38.060 [main] INFO   - Authorization on the site
+2019-08-27 01:08:40.744 [main] INFO   - Click menu Dressses
+2019-08-27 01:08:42.728 [main] INFO   - Click Summer Dresses
+2019-08-27 01:08:44.738 [main] INFO   - Click menu T-Shirts
+2019-08-27 01:08:44.948 [main] INFO   - Click to Product Container
+2019-08-27 01:08:45.092 [main] INFO   - breadcrumb
+2019-22-27 01:22:55.372 [main] INFO   - Open site
+2019-22-27 01:22:57.452 [main] INFO   - Click Sgn In
+2019-23-27 01:23:01.007 [main] INFO   - Authorization on the site
+2019-23-27 01:23:03.784 [main] INFO   - Click menu Dressses
+2019-23-27 01:23:06.086 [main] INFO   - Click Summer Dresses
+2019-23-27 01:23:08.360 [main] INFO   - Click menu T-Shirts
+2019-23-27 01:23:08.698 [main] INFO   - Click to Product Container
+2019-23-27 01:23:08.781 [main] INFO   - breadcrumb
+2019-24-27 01:24:44.486 [main] INFO   - Open site
+2019-24-27 01:24:47.262 [main] INFO   - Click Sgn In
+2019-24-27 01:24:51.420 [main] INFO   - Authorization on the site
+2019-24-27 01:24:54.482 [main] INFO   - Click menu Dressses
+2019-24-27 01:24:56.771 [main] INFO   - Click Summer Dresses
+2019-24-27 01:24:58.594 [main] INFO   - Click menu T-Shirts
+2019-24-27 01:24:58.887 [main] INFO   - Click to Product Container
+2019-24-27 01:24:58.951 [main] INFO   - breadcrumb
+2019-26-27 01:26:10.810 [main] INFO   - Open site
+2019-26-27 01:26:13.218 [main] INFO   - Click Sgn In
+2019-26-27 01:26:15.583 [main] INFO   - Authorization on the site
+2019-26-27 01:26:18.126 [main] INFO   - Click menu Dressses
+2019-26-27 01:26:21.091 [main] INFO   - Click Summer Dresses
+2019-26-27 01:26:23.134 [main] INFO   - Click menu T-Shirts
+2019-26-27 01:26:23.381 [main] INFO   - Click to Product Container
+2019-26-27 01:26:23.453 [main] INFO   - breadcrumb
+2019-27-27 01:27:57.830 [main] INFO   - Open site
+2019-28-27 01:28:00.280 [main] INFO   - Click Sgn In
+2019-28-27 01:28:03.497 [main] INFO   - Authorization on the site
+2019-28-27 01:28:06.340 [main] INFO   - Click menu Dressses
+2019-28-27 01:28:08.882 [main] INFO   - Click Summer Dresses
+2019-28-27 01:28:11.049 [main] INFO   - Click menu T-Shirts
+2019-28-27 01:28:11.367 [main] INFO   - Click to Product Container
+2019-28-27 01:28:11.448 [main] INFO   - breadcrumb
+2019-30-27 08:30:54.805 [main] INFO   - Open site
+2019-30-27 08:30:57.560 [main] INFO   - Click Sgn In
+2019-31-27 08:31:00.960 [main] INFO   - Authorization on the site
+2019-31-27 08:31:04.304 [main] INFO   - Click menu Dressses
+2019-31-27 08:31:06.797 [main] INFO   - Click Summer Dresses
+2019-31-27 08:31:09.426 [main] INFO   - Click menu T-Shirts
+2019-31-27 08:31:09.740 [main] INFO   - Click to Product Container
+2019-31-27 08:31:09.824 [main] INFO   - breadcrumb
+2019-36-27 08:36:03.419 [main] INFO   - Open site
+2019-36-27 08:36:05.447 [main] INFO   - Click Sgn In
+2019-36-27 08:36:08.061 [main] INFO   - Authorization on the site
+2019-36-27 08:36:10.720 [main] INFO   - Click menu Dressses
+2019-36-27 08:36:13.305 [main] INFO   - Click Summer Dresses
+2019-36-27 08:36:15.443 [main] INFO   - Click menu T-Shirts
+2019-36-27 08:36:15.817 [main] INFO   - Click to Product Container
+2019-36-27 08:36:15.974 [main] INFO   - breadcrumb
+2019-48-27 08:48:13.208 [main] INFO   - Open site
+2019-48-27 08:48:15.719 [main] INFO   - Click Sgn In
+2019-48-27 08:48:19.122 [main] INFO   - Authorization on the site
+2019-48-27 08:48:22.620 [main] INFO   - Click menu Dressses
+2019-48-27 08:48:25.382 [main] INFO   - Click Summer Dresses
+2019-48-27 08:48:27.532 [main] INFO   - Click menu T-Shirts
+2019-48-27 08:48:27.888 [main] INFO   - Click to Product Container
+2019-48-27 08:48:28.004 [main] INFO   - breadcrumb
+2019-48-27 08:48:51.432 [main] INFO   - Open site
+2019-48-27 08:48:53.662 [main] INFO   - Click Sgn In
+2019-48-27 08:48:56.332 [main] INFO   - Authorization on the site
+2019-48-27 08:48:59.499 [main] INFO   - Click menu Dressses
+2019-49-27 08:49:02.132 [main] INFO   - Click Summer Dresses
+2019-49-27 08:49:04.140 [main] INFO   - Click menu T-Shirts
+2019-49-27 08:49:04.476 [main] INFO   - Click to Product Container
+2019-49-27 08:49:04.641 [main] INFO   - breadcrumb
+2019-53-27 19:53:12.414 [main] INFO   - Open site
+2019-53-27 19:53:15.249 [main] INFO   - Click Sgn In
+2019-53-27 19:53:23.359 [main] INFO   - Authorization on the site
+2019-53-27 19:53:26.641 [main] INFO   - Click menu Dressses
+2019-53-27 19:53:29.339 [main] INFO   - Click Summer Dresses
+2019-53-27 19:53:31.636 [main] INFO   - Click menu T-Shirts
+2019-53-27 19:53:32.020 [main] INFO   - Click to Product Container
+2019-53-27 19:53:32.198 [main] INFO   - breadcrumb
+2019-18-27 20:18:59.263 [main] INFO   - Open site
+2019-19-27 20:19:02.401 [main] INFO   - Click Sgn In
+2019-19-27 20:19:04.863 [main] INFO   - Authorization on the site
+2019-19-27 20:19:07.412 [main] INFO   - Click menu Dressses
+2019-19-27 20:19:09.710 [main] INFO   - Click Summer Dresses
+2019-19-27 20:19:11.624 [main] INFO   - Click menu T-Shirts
+2019-19-27 20:19:11.907 [main] INFO   - Click to Product Container
+2019-19-27 20:19:12.062 [main] INFO   - breadcrumb
+2019-20-27 20:20:24.328 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-20-27 20:20:44.383 [main] INFO   - Open site
+2019-21-27 20:21:31.659 [main] INFO   - Open site
+2019-25-27 20:25:12.850 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='page']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-26-27 20:26:36.571 [main] INFO   - Open site
+2019-27-27 20:27:35.462 [main] ERROR  - null
+2019-28-27 20:28:39.171 [main] ERROR  - null
+2019-35-27 20:35:25.994 [main] ERROR  - null
+2019-36-27 20:36:05.355 [main] ERROR  - null
+2019-38-27 20:38:27.051 [main] INFO   - Open site
+2019-38-27 20:38:27.192 [main] INFO   - Click Sgn In
+2019-39-27 20:39:25.691 [main] INFO   - Open site
+2019-39-27 20:39:25.781 [main] INFO   - Click Sgn In
+2019-39-27 20:39:51.603 [main] INFO   - Open site
+2019-39-27 20:39:51.716 [main] INFO   - Click Sgn In
+2019-40-27 20:40:49.275 [main] INFO   - Open site
+2019-40-27 20:40:49.370 [main] INFO   - Click Sgn In
+2019-41-27 20:41:33.216 [main] INFO   - Open site
+2019-41-27 20:41:33.307 [main] INFO   - Click Sgn In
+2019-42-27 20:42:53.186 [main] INFO   - Open site
+2019-42-27 20:42:55.517 [main] INFO   - Click Sgn In
+2019-42-27 20:42:58.428 [main] INFO   - Authorization on the site
+2019-43-27 20:43:02.196 [main] INFO   - Click menu Dressses
+2019-43-27 20:43:04.481 [main] INFO   - Click Summer Dresses
+2019-43-27 20:43:06.502 [main] INFO   - Click menu T-Shirts
+2019-43-27 20:43:06.860 [main] INFO   - Click to Product Container
+2019-43-27 20:43:07.110 [main] INFO   - breadcrumb
+2019-43-27 20:43:58.206 [main] INFO   - Open site
+2019-44-27 20:44:00.888 [main] INFO   - Click Sgn In
+2019-44-27 20:44:03.448 [main] INFO   - Authorization on the site
+2019-44-27 20:44:06.466 [main] INFO   - Click menu Dressses
+2019-44-27 20:44:09.170 [main] INFO   - Click Summer Dresses
+2019-44-27 20:44:12.285 [main] INFO   - Click menu T-Shirts
+2019-44-27 20:44:12.616 [main] INFO   - Click to Product Container
+2019-44-27 20:44:12.656 [main] INFO   - breadcrumb
+2019-48-27 20:48:36.121 [main] INFO   - Open site
+2019-48-27 20:48:36.210 [main] INFO   - Click Sgn In
+2019-06-27 21:06:39.016 [main] INFO   - Open site
+2019-06-27 21:06:41.699 [main] INFO   - Click Sgn In
+2019-06-27 21:06:44.730 [main] INFO   - Authorization on the site
+2019-06-27 21:06:47.437 [main] INFO   - Click menu Dressses
+2019-06-27 21:06:49.927 [main] INFO   - Click Summer Dresses
+2019-06-27 21:06:51.885 [main] INFO   - Click menu T-Shirts
+2019-06-27 21:06:52.105 [main] INFO   - Click to Product Container
+2019-06-27 21:06:52.189 [main] INFO   - breadcrumb
+2019-09-27 21:09:49.182 [main] INFO   - Open site
+2019-09-27 21:09:51.979 [main] INFO   - Click Sgn In
+2019-09-27 21:09:54.709 [main] INFO   - Authorization on the site
+2019-09-27 21:09:57.334 [main] INFO   - Click menu Dressses
+2019-10-27 21:10:01.151 [main] INFO   - Click Summer Dresses
+2019-10-27 21:10:02.913 [main] INFO   - Click menu T-Shirts
+2019-10-27 21:10:03.077 [main] INFO   - Click to Product Container
+2019-10-27 21:10:08.130 [main] INFO   - breadcrumb
+2019-10-27 21:10:30.971 [main] INFO   - Open site
+2019-10-27 21:10:33.432 [main] INFO   - Click Sgn In
+2019-10-27 21:10:35.959 [main] INFO   - Authorization on the site
+2019-10-27 21:10:38.778 [main] INFO   - Click menu Dressses
+2019-10-27 21:10:41.210 [main] INFO   - Click Summer Dresses
+2019-10-27 21:10:43.123 [main] INFO   - Click menu T-Shirts
+2019-10-27 21:10:43.280 [main] INFO   - Click to Product Container
+2019-10-27 21:10:58.340 [main] INFO   - breadcrumb
+2019-29-27 21:29:58.248 [main] INFO   - Open site
+2019-30-27 21:30:00.542 [main] INFO   - Click Sgn In
+2019-30-27 21:30:03.140 [main] INFO   - Authorization on the site
+2019-30-27 21:30:05.476 [main] INFO   - Click menu Dressses
+2019-30-27 21:30:07.499 [main] INFO   - Click Summer Dresses
+2019-30-27 21:30:09.237 [main] INFO   - Click menu T-Shirts
+2019-30-27 21:30:12.418 [main] INFO   - Click to Product Container
+2019-30-27 21:30:27.519 [main] INFO   - breadcrumb
+2019-37-27 21:37:42.146 [main] INFO   - Open site
+2019-37-27 21:37:44.423 [main] INFO   - Click Sgn In
+2019-37-27 21:37:47.230 [main] INFO   - Authorization on the site
+2019-37-27 21:37:50.317 [main] INFO   - Click menu Dressses
+2019-37-27 21:37:52.877 [main] INFO   - Click Summer Dresses
+2019-37-27 21:37:54.604 [main] INFO   - Click menu T-Shirts
+2019-37-27 21:37:56.960 [main] INFO   - Click to Product Container
+2019-37-27 21:37:57.008 [main] INFO   - breadcrumb
+2019-38-27 21:38:33.426 [main] INFO   - Open site
+2019-38-27 21:38:35.568 [main] INFO   - Click Sgn In
+2019-38-27 21:38:38.681 [main] INFO   - Authorization on the site
+2019-38-27 21:38:41.992 [main] INFO   - Click menu Dressses
+2019-38-27 21:38:44.458 [main] INFO   - Click Summer Dresses
+2019-38-27 21:38:47.043 [main] INFO   - Click menu T-Shirts
+2019-38-27 21:38:50.832 [main] INFO   - Click to Product Container
+2019-38-27 21:38:50.876 [main] INFO   - breadcrumb
+2019-40-27 21:40:03.473 [main] INFO   - Open site
+2019-40-27 21:40:05.537 [main] INFO   - Click Sgn In
+2019-40-27 21:40:07.853 [main] INFO   - Authorization on the site
+2019-40-27 21:40:10.519 [main] INFO   - Click menu Dressses
+2019-40-27 21:40:12.747 [main] INFO   - Click Summer Dresses
+2019-40-27 21:40:14.410 [main] INFO   - Click menu T-Shirts
+2019-40-27 21:40:16.637 [main] INFO   - Click to Product Container
+2019-40-27 21:40:16.716 [main] INFO   - breadcrumb
+2019-48-27 21:48:30.624 [main] INFO   - Open site
+2019-48-27 21:48:32.837 [main] INFO   - Click Sgn In
+2019-48-27 21:48:35.326 [main] INFO   - Authorization on the site
+2019-48-27 21:48:38.078 [main] INFO   - Click menu Dressses
+2019-48-27 21:48:40.367 [main] INFO   - Click Summer Dresses
+2019-48-27 21:48:42.323 [main] INFO   - Click menu T-Shirts
+2019-48-27 21:48:44.593 [main] INFO   - Click to Product Container
+2019-48-27 21:48:45.107 [main] ERROR  - expected:<[First]> but was:<[ > Women>Tops>T-shirts>Faded Short Sleeve T-shirts]>
+2019-51-27 21:51:39.722 [main] INFO   - Open site
+2019-51-27 21:51:42.753 [main] INFO   - Click Sgn In
+2019-51-27 21:51:48.876 [main] INFO   - Authorization on the site
+2019-51-27 21:51:52.589 [main] INFO   - Click menu Dressses
+2019-51-27 21:51:55.141 [main] INFO   - Click Summer Dresses
+2019-51-27 21:51:57.110 [main] INFO   - Click menu T-Shirts
+2019-51-27 21:51:59.892 [main] INFO   - Click to Product Container
+2019-52-27 21:52:00.794 [main] ERROR  - expected:<[Women]> but was:<[  WomenTopsT-shirtsFaded Short Sleeve T-shirts]>
+2019-57-27 21:57:04.052 [main] INFO   - Open site
+2019-57-27 21:57:06.288 [main] INFO   - Click Sgn In
+2019-57-27 21:57:09.303 [main] INFO   - Authorization on the site
+2019-57-27 21:57:12.079 [main] INFO   - Click menu Dressses
+2019-57-27 21:57:14.335 [main] INFO   - Click Summer Dresses
+2019-57-27 21:57:16.522 [main] INFO   - Click menu T-Shirts
+2019-57-27 21:57:19.024 [main] INFO   - Click to Product Container
+2019-57-27 21:57:19.604 [main] ERROR  - expected:<[Women]> but was:<[ , Women,Tops,T-shirts,Faded Short Sleeve T-shirts]>
+2019-02-27 22:02:12.957 [main] INFO   - Open site
+2019-02-27 22:02:16.354 [main] INFO   - Click Sgn In
+2019-02-27 22:02:19.641 [main] INFO   - Authorization on the site
+2019-02-27 22:02:22.160 [main] INFO   - Click menu Dressses
+2019-02-27 22:02:24.502 [main] INFO   - Click Summer Dresses
+2019-02-27 22:02:26.924 [main] INFO   - Click menu T-Shirts
+2019-02-27 22:02:29.126 [main] INFO   - Click to Product Container
+2019-02-27 22:02:29.625 [main] ERROR  - expected:<[Wome>To]s>T-shirts>Faded Sho...> but was:<[ > Women>Top]s>T-shirts>Faded Sho...>
+2019-03-27 22:03:29.786 [main] INFO   - Open site
+2019-03-27 22:03:32.045 [main] INFO   - Click Sgn In
+2019-03-27 22:03:34.810 [main] INFO   - Authorization on the site
+2019-03-27 22:03:37.292 [main] INFO   - Click menu Dressses
+2019-03-27 22:03:39.403 [main] INFO   - Click Summer Dresses
+2019-03-27 22:03:42.847 [main] INFO   - Click menu T-Shirts
+2019-03-27 22:03:50.637 [main] INFO   - Click to Product Container
+2019-03-27 22:03:50.664 [main] INFO   - breadcrumb
+2019-06-27 22:06:15.473 [main] INFO   - Open site
+2019-06-27 22:06:17.753 [main] INFO   - Click Sgn In
+2019-06-27 22:06:20.269 [main] INFO   - Authorization on the site
+2019-06-27 22:06:23.308 [main] INFO   - Click menu Dressses
+2019-06-27 22:06:25.607 [main] INFO   - Click Summer Dresses
+2019-06-27 22:06:27.512 [main] INFO   - Click menu T-Shirts
+2019-06-27 22:06:29.959 [main] INFO   - Click to Product Container
+2019-06-27 22:06:29.988 [main] INFO   - breadcrumb
+2019-09-27 22:09:21.710 [main] INFO   - Open site
+2019-09-27 22:09:24.344 [main] INFO   - Click Sgn In
+2019-09-27 22:09:28.601 [main] INFO   - Authorization on the site
+2019-09-27 22:09:33.093 [main] INFO   - Click menu Dressses
+2019-09-27 22:09:35.763 [main] INFO   - Click Summer Dresses
+2019-09-27 22:09:38.146 [main] INFO   - Click menu T-Shirts
+2019-09-27 22:09:40.217 [main] INFO   - Click to Product Container
+2019-09-27 22:09:40.245 [main] INFO   - Check breadcrumb
+2019-09-27 22:09:40.375 [main] INFO   - Click to button Add to Cart
+2019-12-27 22:12:44.285 [main] INFO   - Open site
+2019-12-27 22:12:47.814 [main] INFO   - Click Sgn In
+2019-12-27 22:12:50.494 [main] INFO   - Authorization on the site
+2019-12-27 22:12:53.822 [main] INFO   - Click menu Dressses
+2019-12-27 22:12:56.628 [main] INFO   - Click Summer Dresses
+2019-12-27 22:12:58.759 [main] INFO   - Click menu T-Shirts
+2019-13-27 22:13:01.175 [main] INFO   - Click to Product Container
+2019-13-27 22:13:01.201 [main] INFO   - Check breadcrumb
+2019-13-27 22:13:01.287 [main] INFO   - Click to button Add to Cart
+2019-13-27 22:13:04.235 [main] INFO   - Click Proceed to Checkout
+2019-16-27 22:16:21.291 [main] INFO   - Open site
+2019-16-27 22:16:24.056 [main] INFO   - Click Sgn In
+2019-16-27 22:16:27.528 [main] INFO   - Authorization on the site
+2019-16-27 22:16:31.775 [main] INFO   - Click menu Dressses
+2019-16-27 22:16:35.963 [main] INFO   - Click Summer Dresses
+2019-16-27 22:16:38.886 [main] INFO   - Click menu T-Shirts
+2019-16-27 22:16:40.974 [main] INFO   - Click to Product Container
+2019-16-27 22:16:41.007 [main] INFO   - Check breadcrumb
+2019-16-27 22:16:41.163 [main] INFO   - Click to button Add to Cart
+2019-16-27 22:16:45.422 [main] INFO   - Click Proceed to Checkout
+2019-20-27 22:20:25.407 [main] INFO   - Open site
+2019-20-27 22:20:27.551 [main] INFO   - Click Sgn In
+2019-20-27 22:20:30.027 [main] INFO   - Authorization on the site
+2019-20-27 22:20:32.942 [main] INFO   - Click menu Dressses
+2019-20-27 22:20:35.239 [main] INFO   - Click Summer Dresses
+2019-20-27 22:20:37.131 [main] INFO   - Click menu T-Shirts
+2019-20-27 22:20:39.354 [main] INFO   - Click to Product Container
+2019-20-27 22:20:39.378 [main] INFO   - Check breadcrumb
+2019-20-27 22:20:39.465 [main] INFO   - Click to button Add to Cart
+2019-20-27 22:20:42.519 [main] INFO   - Click Proceed to Checkout
+2019-20-27 22:20:42.643 [main] INFO   - Increase Quanttity
+2019-21-27 22:21:32.643 [main] INFO   - Open site
+2019-21-27 22:21:34.683 [main] INFO   - Click Sgn In
+2019-21-27 22:21:37.140 [main] INFO   - Authorization on the site
+2019-21-27 22:21:40.921 [main] INFO   - Click menu Dressses
+2019-21-27 22:21:43.204 [main] INFO   - Click Summer Dresses
+2019-21-27 22:21:44.966 [main] INFO   - Click menu T-Shirts
+2019-21-27 22:21:47.205 [main] INFO   - Click to Product Container
+2019-21-27 22:21:47.231 [main] INFO   - Check breadcrumb
+2019-21-27 22:21:47.350 [main] INFO   - Click to button Add to Cart
+2019-21-27 22:21:50.195 [main] INFO   - Click Proceed to Checkout
+2019-21-27 22:21:55.338 [main] INFO   - Increase Quanttity
+2019-27-27 22:27:25.016 [main] INFO   - Open site
+2019-27-27 22:27:27.002 [main] INFO   - Click Sgn In
+2019-27-27 22:27:29.949 [main] INFO   - Authorization on the site
+2019-27-27 22:27:32.384 [main] INFO   - Click menu Dressses
+2019-27-27 22:27:35.158 [main] INFO   - Click Summer Dresses
+2019-27-27 22:27:37.176 [main] INFO   - Click menu T-Shirts
+2019-27-27 22:27:40.093 [main] INFO   - Click to Product Container
+2019-27-27 22:27:40.118 [main] INFO   - Check breadcrumb
+2019-27-27 22:27:40.199 [main] INFO   - Click to button Add to Cart
+2019-27-27 22:27:45.695 [main] INFO   - Click Proceed to Checkout
+2019-27-27 22:27:45.845 [main] INFO   - Increase Quanttity
+2019-29-27 22:29:10.642 [main] INFO   - Open site
+2019-29-27 22:29:12.787 [main] INFO   - Click Sgn In
+2019-29-27 22:29:15.127 [main] INFO   - Authorization on the site
+2019-29-27 22:29:17.632 [main] INFO   - Click menu Dressses
+2019-29-27 22:29:20.251 [main] INFO   - Click Summer Dresses
+2019-29-27 22:29:22.163 [main] INFO   - Click menu T-Shirts
+2019-29-27 22:29:24.398 [main] INFO   - Click to Product Container
+2019-29-27 22:29:24.418 [main] INFO   - Check breadcrumb
+2019-29-27 22:29:24.538 [main] INFO   - Click to button Add to Cart
+2019-29-27 22:29:27.515 [main] INFO   - Click Proceed to Checkout
+2019-29-27 22:29:27.737 [main] INFO   - Increase Quanttity
+2019-29-27 22:29:28.279 [main] ERROR  - For input string: "16.51"
+2019-31-27 22:31:31.965 [main] INFO   - Open site
+2019-31-27 22:31:34.008 [main] INFO   - Click Sgn In
+2019-31-27 22:31:36.359 [main] INFO   - Authorization on the site
+2019-31-27 22:31:38.955 [main] INFO   - Click menu Dressses
+2019-31-27 22:31:40.988 [main] INFO   - Click Summer Dresses
+2019-31-27 22:31:42.860 [main] INFO   - Click menu T-Shirts
+2019-31-27 22:31:44.934 [main] INFO   - Click to Product Container
+2019-31-27 22:31:44.954 [main] INFO   - Check breadcrumb
+2019-31-27 22:31:45.051 [main] INFO   - Click to button Add to Cart
+2019-31-27 22:31:48.010 [main] INFO   - Click Proceed to Checkout
+2019-31-27 22:31:48.156 [main] INFO   - Increase Quanttity
+2019-31-27 22:31:48.236 [main] INFO   - Check amount price
+2019-32-27 22:32:33.028 [main] INFO   - Open site
+2019-32-27 22:32:35.160 [main] INFO   - Click Sgn In
+2019-32-27 22:32:37.461 [main] INFO   - Authorization on the site
+2019-32-27 22:32:40.163 [main] INFO   - Click menu Dressses
+2019-32-27 22:32:42.432 [main] INFO   - Click Summer Dresses
+2019-32-27 22:32:44.661 [main] INFO   - Click menu T-Shirts
+2019-32-27 22:32:46.967 [main] INFO   - Click to Product Container
+2019-32-27 22:32:47.006 [main] INFO   - Check breadcrumb
+2019-32-27 22:32:47.105 [main] INFO   - Click to button Add to Cart
+2019-32-27 22:32:51.302 [main] INFO   - Click Proceed to Checkout
+2019-32-27 22:32:54.491 [main] INFO   - Increase Quanttity
+2019-32-27 22:32:54.563 [main] INFO   - Check amount price
+2019-42-27 22:42:29.431 [main] INFO   - Open site
+2019-42-27 22:42:32.038 [main] INFO   - Click Sgn In
+2019-42-27 22:42:34.395 [main] INFO   - Authorization on the site
+2019-42-27 22:42:37.431 [main] INFO   - Click menu Dressses
+2019-42-27 22:42:40.484 [main] INFO   - Click Summer Dresses
+2019-42-27 22:42:42.995 [main] INFO   - Click menu T-Shirts
+2019-42-27 22:42:45.261 [main] INFO   - Click to Product Container
+2019-42-27 22:42:45.322 [main] INFO   - Check breadcrumb
+2019-42-27 22:42:45.501 [main] INFO   - Click to button Add to Cart
+2019-42-27 22:42:48.644 [main] INFO   - Click Proceed to Checkout
+2019-42-27 22:42:49.339 [main] ERROR  - null
+2019-45-27 22:45:23.777 [main] INFO   - Open site
+2019-45-27 22:45:26.836 [main] INFO   - Click Sgn In
+2019-45-27 22:45:30.845 [main] INFO   - Authorization on the site
+2019-45-27 22:45:33.385 [main] INFO   - Click menu Dressses
+2019-45-27 22:45:35.655 [main] INFO   - Click Summer Dresses
+2019-45-27 22:45:38.035 [main] INFO   - Click menu T-Shirts
+2019-45-27 22:45:40.694 [main] INFO   - Click to Product Container
+2019-45-27 22:45:40.727 [main] INFO   - Check breadcrumb
+2019-45-27 22:45:40.879 [main] INFO   - Click to button Add to Cart
+2019-45-27 22:45:43.854 [main] INFO   - Click Proceed to Checkout
+2019-45-27 22:45:44.480 [main] ERROR  - null
+2019-48-27 22:48:48.824 [main] INFO   - Open site
+2019-48-27 22:48:50.713 [main] INFO   - Click Sgn In
+2019-48-27 22:48:53.218 [main] INFO   - Authorization on the site
+2019-48-27 22:48:55.670 [main] INFO   - Click menu Dressses
+2019-48-27 22:48:58.176 [main] INFO   - Click Summer Dresses
+2019-49-27 22:49:00.303 [main] INFO   - Click menu T-Shirts
+2019-49-27 22:49:02.629 [main] INFO   - Click to Product Container
+2019-49-27 22:49:02.652 [main] INFO   - Check breadcrumb
+2019-49-27 22:49:02.763 [main] INFO   - Click to button Add to Cart
+2019-49-27 22:49:05.678 [main] INFO   - Click Proceed to Checkout
+2019-49-27 22:49:06.467 [main] ERROR  - expected:<2> but was:<3>
+2019-50-27 22:50:44.461 [main] INFO   - Open site
+2019-50-27 22:50:46.495 [main] INFO   - Click Sgn In
+2019-50-27 22:50:49.367 [main] INFO   - Authorization on the site
+2019-50-27 22:50:52.252 [main] INFO   - Click menu Dressses
+2019-50-27 22:50:54.817 [main] INFO   - Click Summer Dresses
+2019-50-27 22:50:56.593 [main] INFO   - Click menu T-Shirts
+2019-50-27 22:50:58.689 [main] INFO   - Click to Product Container
+2019-50-27 22:50:58.712 [main] INFO   - Check breadcrumb
+2019-50-27 22:50:58.803 [main] INFO   - Click to button Add to Cart
+2019-51-27 22:51:01.654 [main] INFO   - Click Proceed to Checkout
+2019-51-27 22:51:01.895 [main] INFO   - Increase Quanttity
+2019-51-27 22:51:01.987 [main] INFO   - Check amount price
+2019-52-27 22:52:26.347 [main] INFO   - Open site
+2019-52-27 22:52:28.713 [main] INFO   - Click Sgn In
+2019-52-27 22:52:32.689 [main] INFO   - Authorization on the site
+2019-52-27 22:52:35.479 [main] INFO   - Click menu Dressses
+2019-52-27 22:52:37.787 [main] INFO   - Click Summer Dresses
+2019-52-27 22:52:39.895 [main] INFO   - Click menu T-Shirts
+2019-52-27 22:52:43.140 [main] INFO   - Click to Product Container
+2019-52-27 22:52:43.169 [main] INFO   - Check breadcrumb
+2019-52-27 22:52:43.262 [main] INFO   - Click to button Add to Cart
+2019-52-27 22:52:46.341 [main] INFO   - Click Proceed to Checkout
+2019-52-27 22:52:47.213 [main] ERROR  - expected:<3> but was:<2>
+2019-53-27 22:53:46.832 [main] INFO   - Open site
+2019-53-27 22:53:50.180 [main] INFO   - Click Sgn In
+2019-53-27 22:53:54.753 [main] INFO   - Authorization on the site
+2019-53-27 22:53:57.142 [main] INFO   - Click menu Dressses
+2019-53-27 22:53:59.293 [main] INFO   - Click Summer Dresses
+2019-54-27 22:54:01.202 [main] INFO   - Click menu T-Shirts
+2019-54-27 22:54:03.861 [main] INFO   - Click to Product Container
+2019-54-27 22:54:03.881 [main] INFO   - Check breadcrumb
+2019-54-27 22:54:03.974 [main] INFO   - Click to button Add to Cart
+2019-54-27 22:54:06.884 [main] INFO   - Click Proceed to Checkout
+2019-54-27 22:54:07.080 [main] INFO   - Increase Quanttity
+2019-54-27 22:54:07.171 [main] INFO   - Check amount price
+2019-55-27 22:55:06.285 [main] INFO   - Open site
+2019-55-27 22:55:09.649 [main] INFO   - Click Sgn In
+2019-55-27 22:55:12.722 [main] INFO   - Authorization on the site
+2019-55-27 22:55:15.558 [main] INFO   - Click menu Dressses
+2019-55-27 22:55:17.637 [main] INFO   - Click Summer Dresses
+2019-55-27 22:55:19.452 [main] INFO   - Click menu T-Shirts
+2019-55-27 22:55:22.120 [main] INFO   - Click to Product Container
+2019-55-27 22:55:22.143 [main] INFO   - Check breadcrumb
+2019-55-27 22:55:22.222 [main] INFO   - Click to button Add to Cart
+2019-55-27 22:55:27.720 [main] INFO   - Click Proceed to Checkout
+2019-55-27 22:55:27.919 [main] INFO   - Increase Quanttity
+2019-55-27 22:55:27.999 [main] INFO   - Check amount price
+2019-57-27 22:57:52.947 [main] INFO   - Open site
+2019-57-27 22:57:55.230 [main] INFO   - Click Sgn In
+2019-57-27 22:57:57.884 [main] INFO   - Authorization on the site
+2019-58-27 22:58:00.846 [main] INFO   - Click menu Dressses
+2019-58-27 22:58:03.739 [main] INFO   - Click Summer Dresses
+2019-58-27 22:58:05.928 [main] INFO   - Click menu T-Shirts
+2019-58-27 22:58:08.264 [main] INFO   - Click to Product Container
+2019-58-27 22:58:08.288 [main] INFO   - Check breadcrumb
+2019-58-27 22:58:08.383 [main] INFO   - Click to button Add to Cart
+2019-58-27 22:58:11.717 [main] INFO   - Click Proceed to Checkout
+2019-58-27 22:58:12.423 [main] ERROR  - expected:<21> but was:<20>
+2019-59-27 22:59:09.096 [main] INFO   - Open site
+2019-59-27 22:59:11.369 [main] INFO   - Click Sgn In
+2019-59-27 22:59:13.730 [main] INFO   - Authorization on the site
+2019-59-27 22:59:16.497 [main] INFO   - Click menu Dressses
+2019-59-27 22:59:18.733 [main] INFO   - Click Summer Dresses
+2019-59-27 22:59:20.520 [main] INFO   - Click menu T-Shirts
+2019-59-27 22:59:22.642 [main] INFO   - Click to Product Container
+2019-59-27 22:59:22.662 [main] INFO   - Check breadcrumb
+2019-59-27 22:59:22.747 [main] INFO   - Click to button Add to Cart
+2019-59-27 22:59:25.880 [main] INFO   - Click Proceed to Checkout
+2019-59-27 22:59:26.684 [main] ERROR  - expected:<2> but was:<1>
+2019-24-27 23:24:50.085 [main] INFO   - Open site
+2019-24-27 23:24:52.466 [main] INFO   - Click Sgn In
+2019-24-27 23:24:55.090 [main] INFO   - Authorization on the site
+2019-24-27 23:24:57.796 [main] INFO   - Click menu Dressses
+2019-25-27 23:25:00.222 [main] INFO   - Click Summer Dresses
+2019-25-27 23:25:02.054 [main] INFO   - Click menu T-Shirts
+2019-25-27 23:25:04.277 [main] INFO   - Click to Product Container
+2019-25-27 23:25:04.309 [main] INFO   - Check breadcrumb
+2019-25-27 23:25:04.399 [main] INFO   - Click to button Add to Cart
+2019-25-27 23:25:07.127 [main] INFO   - Click Proceed to Checkout
+2019-25-27 23:25:07.337 [main] INFO   - Increase Quanttity
+2019-25-27 23:25:07.468 [main] INFO   - Check amount price
+2019-32-27 23:32:52.230 [main] INFO   - Open site
+2019-32-27 23:32:54.391 [main] INFO   - Click Sgn In
+2019-32-27 23:32:57.064 [main] INFO   - Authorization on the site
+2019-32-27 23:32:59.674 [main] INFO   - Click menu Dressses
+2019-33-27 23:33:02.189 [main] INFO   - Click Summer Dresses
+2019-33-27 23:33:03.970 [main] INFO   - Click menu T-Shirts
+2019-33-27 23:33:06.142 [main] INFO   - Click to Product Container
+2019-33-27 23:33:06.184 [main] INFO   - Check breadcrumb
+2019-33-27 23:33:06.354 [main] INFO   - Click to button Add to Cart
+2019-33-27 23:33:09.162 [main] INFO   - Click Proceed to Checkout
+2019-33-27 23:33:09.321 [main] INFO   - Increase Quanttity
+2019-33-27 23:33:09.944 [main] ERROR  - Use assertEquals(expected, actual, delta) to compare floating-point numbers
+2019-33-27 23:33:57.263 [main] INFO   - Open site
+2019-33-27 23:33:59.425 [main] INFO   - Click Sgn In
+2019-34-27 23:34:01.662 [main] INFO   - Authorization on the site
+2019-34-27 23:34:04.207 [main] INFO   - Click menu Dressses
+2019-34-27 23:34:06.692 [main] INFO   - Click Summer Dresses
+2019-34-27 23:34:08.587 [main] INFO   - Click menu T-Shirts
+2019-34-27 23:34:10.691 [main] INFO   - Click to Product Container
+2019-34-27 23:34:10.716 [main] INFO   - Check breadcrumb
+2019-34-27 23:34:10.831 [main] INFO   - Click to button Add to Cart
+2019-34-27 23:34:13.795 [main] INFO   - Click Proceed to Checkout
+2019-34-27 23:34:13.927 [main] INFO   - Increase Quanttity
+2019-34-27 23:34:14.531 [main] ERROR  - Use assertEquals(expected, actual, delta) to compare floating-point numbers
+2019-37-27 23:37:30.834 [main] INFO   - Open site
+2019-37-27 23:37:33.910 [main] INFO   - Click Sgn In
+2019-37-27 23:37:37.368 [main] INFO   - Authorization on the site
+2019-37-27 23:37:40.113 [main] INFO   - Click menu Dressses
+2019-37-27 23:37:42.237 [main] INFO   - Click Summer Dresses
+2019-37-27 23:37:43.995 [main] INFO   - Click menu T-Shirts
+2019-37-27 23:37:46.283 [main] INFO   - Click to Product Container
+2019-37-27 23:37:46.310 [main] INFO   - Check breadcrumb
+2019-37-27 23:37:46.426 [main] INFO   - Click to button Add to Cart
+2019-37-27 23:37:49.389 [main] INFO   - Click Proceed to Checkout
+2019-37-27 23:37:49.590 [main] INFO   - Increase Quanttity
+2019-37-27 23:37:49.742 [main] INFO   - Check amount price
+2019-43-27 23:43:32.701 [main] INFO   - Open site
+2019-43-27 23:43:35.187 [main] INFO   - Click Sgn In
+2019-43-27 23:43:37.669 [main] INFO   - Authorization on the site
+2019-43-27 23:43:40.189 [main] INFO   - Click menu Dressses
+2019-43-27 23:43:42.768 [main] INFO   - Click Summer Dresses
+2019-43-27 23:43:44.562 [main] INFO   - Click menu T-Shirts
+2019-43-27 23:43:46.780 [main] INFO   - Click to Product Container
+2019-43-27 23:43:46.806 [main] INFO   - Check breadcrumb
+2019-43-27 23:43:46.919 [main] INFO   - Click to button Add to Cart
+2019-43-27 23:43:49.675 [main] INFO   - Click Proceed to Checkout
+2019-43-27 23:43:49.828 [main] INFO   - Increase Quanttity
+2019-43-27 23:43:49.990 [main] INFO   - Check amount price
+2019-00-28 00:00:36.197 [main] INFO   - Open site
+2019-00-28 00:00:38.253 [main] INFO   - Click Sgn In
+2019-00-28 00:00:41.830 [main] INFO   - Authorization on the site
+2019-00-28 00:00:44.488 [main] INFO   - Click menu Dressses
+2019-00-28 00:00:46.838 [main] INFO   - Click Summer Dresses
+2019-00-28 00:00:48.648 [main] INFO   - Click menu T-Shirts
+2019-00-28 00:00:51.170 [main] INFO   - Click to Product Container
+2019-00-28 00:00:51.210 [main] INFO   - Check breadcrumb
+2019-00-28 00:00:51.330 [main] INFO   - Click to button Add to Cart
+2019-00-28 00:00:54.837 [main] INFO   - Click Proceed to Checkout
+2019-01-28 00:01:06.013 [main] ERROR  - Expected condition failed: waiting for element found by By.xpath: //td[@class='cart_quantity text-center']/input[@type='hidden'] to have text "2". Current text: "" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50978}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 4fbfef579d5fa231a09f22eb01a646e6
+2019-04-28 00:04:06.547 [main] INFO   - Open site
+2019-04-28 00:04:08.560 [main] INFO   - Click Sgn In
+2019-04-28 00:04:11.049 [main] INFO   - Authorization on the site
+2019-04-28 00:04:13.750 [main] INFO   - Click menu Dressses
+2019-04-28 00:04:16.574 [main] INFO   - Click Summer Dresses
+2019-04-28 00:04:18.542 [main] INFO   - Click menu T-Shirts
+2019-04-28 00:04:20.903 [main] INFO   - Click to Product Container
+2019-04-28 00:04:20.925 [main] INFO   - Check breadcrumb
+2019-04-28 00:04:21.014 [main] INFO   - Click to button Add to Cart
+2019-04-28 00:04:24.226 [main] INFO   - Click Proceed to Checkout
+2019-04-28 00:04:25.539 [main] INFO   - Increase Quanttity
+2019-04-28 00:04:25.651 [main] INFO   - Check amount price
+2019-08-28 00:08:29.840 [main] INFO   - Open site
+2019-08-28 00:08:32.119 [main] INFO   - Click Sgn In
+2019-08-28 00:08:34.378 [main] INFO   - Authorization on the site
+2019-08-28 00:08:36.847 [main] INFO   - Click menu Dressses
+2019-08-28 00:08:39.259 [main] INFO   - Click Summer Dresses
+2019-08-28 00:08:41.490 [main] INFO   - Click menu T-Shirts
+2019-08-28 00:08:43.758 [main] INFO   - Click to Product Container
+2019-08-28 00:08:43.788 [main] INFO   - Check breadcrumb
+2019-08-28 00:08:43.878 [main] INFO   - Click to button Add to Cart
+2019-08-28 00:08:46.682 [main] INFO   - Click Proceed to Checkout
+2019-08-28 00:08:47.985 [main] INFO   - Increase Quanttity
+2019-08-28 00:08:48.099 [main] INFO   - Check amount price
+2019-18-28 00:18:40.809 [main] INFO   - Open site
+2019-18-28 00:18:43.565 [main] INFO   - Click Sgn In
+2019-18-28 00:18:46.017 [main] INFO   - Authorization on the site
+2019-18-28 00:18:48.810 [main] INFO   - Click menu Dressses
+2019-18-28 00:18:51.383 [main] INFO   - Click Summer Dresses
+2019-18-28 00:18:53.792 [main] INFO   - Click menu T-Shirts
+2019-18-28 00:18:56.200 [main] INFO   - Click to Product Container
+2019-18-28 00:18:56.232 [main] INFO   - Check breadcrumb
+2019-18-28 00:18:56.362 [main] INFO   - Click to button Add to Cart
+2019-18-28 00:18:59.311 [main] INFO   - Click Proceed to Checkout
+2019-19-28 00:19:00.808 [main] INFO   - Increase Quanttity
+2019-19-28 00:19:00.920 [main] INFO   - Check amount price
+2019-19-28 00:19:00.989 [main] INFO   - Delete Product
+2019-19-28 00:19:03.835 [main] ERROR  - expected:<[[ChromeDriver: chrome on XP (65e47d4a094ee87e8848ee4a52e80875)] -> xpath: //p[@class='alert alert-warning']]> but was:<Your shopping cart is empty.>
+2019-19-28 00:19:38.760 [main] INFO   - Open site
+2019-19-28 00:19:41.052 [main] INFO   - Click Sgn In
+2019-19-28 00:19:44.123 [main] INFO   - Authorization on the site
+2019-19-28 00:19:47.201 [main] INFO   - Click menu Dressses
+2019-19-28 00:19:49.499 [main] INFO   - Click Summer Dresses
+2019-19-28 00:19:51.744 [main] INFO   - Click menu T-Shirts
+2019-20-28 00:20:11.958 [main] INFO   - Open site
+2019-20-28 00:20:13.958 [main] INFO   - Click Sgn In
+2019-20-28 00:20:16.341 [main] INFO   - Authorization on the site
+2019-20-28 00:20:19.107 [main] INFO   - Click menu Dressses
+2019-20-28 00:20:21.678 [main] INFO   - Click Summer Dresses
+2019-20-28 00:20:23.425 [main] INFO   - Click menu T-Shirts
+2019-20-28 00:20:25.672 [main] INFO   - Click to Product Container
+2019-20-28 00:20:25.704 [main] INFO   - Check breadcrumb
+2019-20-28 00:20:25.785 [main] INFO   - Click to button Add to Cart
+2019-20-28 00:20:28.666 [main] INFO   - Click Proceed to Checkout
+2019-20-28 00:20:30.001 [main] INFO   - Increase Quanttity
+2019-20-28 00:20:30.112 [main] INFO   - Check amount price
+2019-20-28 00:20:30.202 [main] INFO   - Delete Product
+2019-20-28 00:20:32.132 [main] INFO   - Check that we have message: Your shopping cart is empty
+2019-28-28 01:28:04.984 [main] INFO   - Open site
+2019-28-28 01:28:07.391 [main] INFO   - Click Sign In
+2019-28-28 01:28:07.398 [main] INFO   - Get Title for page after Log In - Login Page
+2019-28-28 01:28:10.465 [main] INFO   - User Authorization
+2019-28-28 01:28:10.521 [main] INFO   - Check Customer Name
+2019-28-28 01:28:13.036 [main] INFO   - Log Out
+2019-28-28 01:28:13.061 [main] INFO   - Get Title from page after log out  Login Page
+2019-28-28 01:28:13.062 [main] INFO   - Check that page after clickSignIn Link and after log out is the same
+2019-28-28 01:28:14.248 [main] INFO   - Close site
+2019-28-28 01:28:38.636 [main] INFO   - Open site
+2019-28-28 01:28:40.968 [main] INFO   - Click Sgn In
+2019-28-28 01:28:43.372 [main] INFO   - Authorization on the site
+2019-28-28 01:28:46.261 [main] INFO   - Click menu Dressses
+2019-28-28 01:28:49.343 [main] INFO   - Click Summer Dresses
+2019-28-28 01:28:49.433 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-28-28 01:28:52.301 [main] INFO   - CLick to Filter color White
+2019-28-28 01:28:52.353 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-29-28 01:29:45.229 [main] INFO   - Open site
+2019-29-28 01:29:47.399 [main] INFO   - Click Sgn In
+2019-29-28 01:29:49.926 [main] INFO   - Authorization on the site
+2019-29-28 01:29:52.696 [main] INFO   - Click menu Dressses
+2019-29-28 01:29:55.309 [main] INFO   - Click Summer Dresses
+2019-29-28 01:29:55.405 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-29-28 01:29:57.393 [main] INFO   - CLick to Filter color White
+2019-29-28 01:29:57.451 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-30-28 01:30:21.913 [main] INFO   - Open site
+2019-30-28 01:30:24.390 [main] INFO   - Click Sgn In
+2019-30-28 01:30:26.943 [main] INFO   - Authorization on the site
+2019-30-28 01:30:30.014 [main] INFO   - Click menu Dressses
+2019-30-28 01:30:33.882 [main] INFO   - Click Summer Dresses
+2019-30-28 01:30:36.356 [main] INFO   - Click menu T-Shirts
+2019-30-28 01:30:38.794 [main] INFO   - Click to Product Container
+2019-30-28 01:30:38.823 [main] INFO   - Check breadcrumb
+2019-30-28 01:30:38.971 [main] INFO   - Click to button Add to Cart
+2019-30-28 01:30:42.352 [main] INFO   - Click Proceed to Checkout
+2019-30-28 01:30:43.774 [main] INFO   - Increase Quanttity
+2019-30-28 01:30:44.059 [main] INFO   - Check amount price
+2019-30-28 01:30:44.202 [main] INFO   - Delete Product
+2019-30-28 01:30:46.258 [main] INFO   - Check that we have message: Your shopping cart is empty
+2019-52-28 01:52:10.678 [main] INFO   - Open site
+2019-52-28 01:52:13.095 [main] INFO   - Click Sgn In
+2019-52-28 01:52:15.694 [main] INFO   - Authorization on the site
+2019-52-28 01:52:18.120 [main] INFO   - Click menu T-Shirts
+2019-52-28 01:52:20.370 [main] INFO   - Click to Product Container
+2019-52-28 01:52:20.407 [main] INFO   - Check breadcrumb
+2019-52-28 01:52:20.565 [main] INFO   - Click to button Add to Cart
+2019-52-28 01:52:24.009 [main] INFO   - Click Proceed to Checkout
+2019-52-28 01:52:25.401 [main] INFO   - Increase Quanttity
+2019-52-28 01:52:25.713 [main] INFO   - Check amount price
+2019-52-28 01:52:25.844 [main] INFO   - Delete Product
+2019-52-28 01:52:28.237 [main] INFO   - Check that we have message: Your shopping cart is empty
+2019-52-28 01:52:48.528 [main] INFO   - Open site
+2019-52-28 01:52:50.844 [main] INFO   - Click Sgn In
+2019-52-28 01:52:53.604 [main] INFO   - Authorization on the site
+2019-52-28 01:52:55.967 [main] INFO   - Click menu T-Shirts
+2019-52-28 01:52:58.265 [main] INFO   - Click to Product Container
+2019-52-28 01:52:58.299 [main] INFO   - Check breadcrumb
+2019-52-28 01:52:58.431 [main] INFO   - Click to button Add to Cart
+2019-53-28 01:53:02.045 [main] INFO   - Click Proceed to Checkout
+2019-53-28 01:53:03.933 [main] INFO   - Increase Quanttity
+2019-53-28 01:53:04.150 [main] INFO   - Check amount price
+2019-53-28 01:53:04.300 [main] INFO   - Delete Product
+2019-53-28 01:53:06.914 [main] INFO   - Check that we have message: Your shopping cart is empty
+2019-53-28 01:53:28.849 [main] INFO   - Open site
+2019-53-28 01:53:31.139 [main] INFO   - Click Sgn In
+2019-53-28 01:53:34.344 [main] INFO   - Authorization on the site
+2019-53-28 01:53:37.427 [main] INFO   - Click menu Dressses
+2019-53-28 01:53:40.216 [main] INFO   - Click Summer Dresses
+2019-53-28 01:53:40.311 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-53-28 01:53:42.266 [main] INFO   - CLick to Filter color White
+2019-53-28 01:53:42.326 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-54-28 01:54:01.442 [main] INFO   - Open site
+2019-54-28 01:54:03.826 [main] INFO   - Click Sign In
+2019-54-28 01:54:03.835 [main] INFO   - Get Title for page after Log In - Login Page
+2019-54-28 01:54:06.537 [main] INFO   - User Authorization
+2019-54-28 01:54:06.592 [main] INFO   - Check Customer Name
+2019-54-28 01:54:09.502 [main] INFO   - Log Out
+2019-54-28 01:54:09.522 [main] INFO   - Get Title from page after log out  Login Page
+2019-54-28 01:54:09.522 [main] INFO   - Check that page after clickSignIn Link and after log out is the same
+2019-54-28 01:54:10.614 [main] INFO   - Close site
+2019-56-28 01:56:14.041 [main] INFO   - Open site
+2019-57-28 01:57:04.896 [main] INFO   - Open site
+2019-57-28 01:57:07.113 [main] INFO   - Click Sgn In
+2019-57-28 01:57:09.844 [main] INFO   - Authorization on the site
+2019-57-28 01:57:12.370 [main] INFO   - Click menu T-Shirts
+2019-57-28 01:57:14.707 [main] INFO   - Click to Product Container
+2019-57-28 01:57:14.750 [main] INFO   - Check breadcrumb
+2019-57-28 01:57:14.945 [main] INFO   - Click to button Add to Cart
+2019-57-28 01:57:17.790 [main] INFO   - Click Proceed to Checkout
+2019-57-28 01:57:19.117 [main] INFO   - Increase Quanttity
+2019-57-28 01:57:19.280 [main] INFO   - Check amount price
+2019-57-28 01:57:19.396 [main] INFO   - Delete Product
+2019-57-28 01:57:22.049 [main] INFO   - Check that we have message: Your shopping cart is empty
+2019-58-28 01:58:30.061 [main] INFO   - Open site
+2019-58-28 01:58:32.463 [main] INFO   - Click Sgn In
+2019-58-28 01:58:35.297 [main] INFO   - Authorization on the site
+2019-58-28 01:58:38.020 [main] INFO   - Click menu T-Shirts
+2019-58-28 01:58:40.302 [main] INFO   - Click to Product Container
+2019-58-28 01:58:40.342 [main] INFO   - Check breadcrumb
+2019-58-28 01:58:40.528 [main] INFO   - Click to button Add to Cart
+2019-58-28 01:58:44.493 [main] INFO   - Click Proceed to Checkout
+2019-58-28 01:58:45.800 [main] INFO   - Increase Quanttity
+2019-58-28 01:58:45.995 [main] INFO   - Check amount price
+2019-58-28 01:58:46.151 [main] INFO   - Delete Product
+2019-58-28 01:58:50.452 [main] INFO   - Check that we have message: Your shopping cart is empty
