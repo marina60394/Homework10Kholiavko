@@ -27,3 +27,40 @@
 2019-04-28 02:04:23.880 [main] INFO   - Compare summer dresses amounts from the page and from the message
 2019-04-28 02:04:25.954 [main] INFO   - CLick to Filter color White
 2019-04-28 02:04:26.083 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-14-28 02:14:15.357 [main] INFO   - Open site
+2019-14-28 02:14:17.678 [main] INFO   - Click Sgn In
+2019-14-28 02:14:20.471 [main] INFO   - Authorization on the site
+2019-14-28 02:14:23.737 [main] INFO   - Click menu Dressses
+2019-14-28 02:14:26.735 [main] INFO   - Click Summer Dresses
+2019-14-28 02:14:26.850 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-14-28 02:14:28.869 [main] INFO   - CLick to Filter color White
+2019-14-28 02:14:28.914 [main] INFO   - Compare summer white dresses from the page and from the message
+2019-14-28 02:14:47.932 [main] INFO   - Open site
+2019-14-28 02:14:50.180 [main] INFO   - Click Sgn In
+2019-14-28 02:14:52.952 [main] INFO   - Authorization on the site
+2019-14-28 02:14:55.739 [main] INFO   - Click menu T-Shirts
+2019-14-28 02:14:58.712 [main] INFO   - Click to Product Container
+2019-14-28 02:14:58.753 [main] INFO   - Check breadcrumb
+2019-14-28 02:14:58.892 [main] INFO   - Click to button Add to Cart
+2019-15-28 02:15:02.287 [main] INFO   - Click Proceed to Checkout
+2019-15-28 02:15:04.267 [main] INFO   - Increase Quanttity
+2019-15-28 02:15:04.491 [main] INFO   - Check amount price
+2019-15-28 02:15:04.624 [main] INFO   - Delete Product
+2019-15-28 02:15:06.697 [main] INFO   - Check that we have message: Your shopping cart is empty
+2019-15-28 02:15:28.632 [main] INFO   - Open site
+2019-15-28 02:15:30.820 [main] INFO   - Click Sign In
+2019-15-28 02:15:30.839 [main] INFO   - Get Title for page after Log In - Login Page
+2019-15-28 02:15:33.692 [main] INFO   - User Authorization
+2019-15-28 02:15:33.743 [main] INFO   - Check Customer Name
+2019-15-28 02:15:36.317 [main] INFO   - Log Out
+2019-15-28 02:15:36.330 [main] INFO   - Get Title from page after log out  Login Page
+2019-15-28 02:15:36.330 [main] INFO   - Check that page after clickSignIn Link and after log out is the same
+2019-15-28 02:15:37.723 [main] INFO   - Close site
+2019-15-28 02:15:56.849 [main] INFO   - Open site
+2019-15-28 02:15:59.198 [main] INFO   - Click Sgn In
+2019-16-28 02:16:01.757 [main] INFO   - Authorization on the site
+2019-16-28 02:16:04.181 [main] INFO   - Click menu Dressses
+2019-16-28 02:16:07.323 [main] INFO   - Click Summer Dresses
+2019-16-28 02:16:07.425 [main] INFO   - Compare summer dresses amounts from the page and from the message
+2019-16-28 02:16:09.475 [main] INFO   - CLick to Filter color White
+2019-16-28 02:16:09.546 [main] INFO   - Compare summer white dresses from the page and from the message

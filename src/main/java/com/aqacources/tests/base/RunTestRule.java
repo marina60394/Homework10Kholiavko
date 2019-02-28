@@ -2,9 +2,9 @@ package com.aqacources.tests.base;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.rules.TestWatcher;
+import org.junit.runner.Description;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.junit.runner.Description;
 
 import java.io.File;
 import java.io.IOException;

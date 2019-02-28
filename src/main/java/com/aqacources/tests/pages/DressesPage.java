@@ -1,11 +1,8 @@
 package com.aqacources.tests.pages;
 
 import com.aqacources.tests.base.BaseTest;
-import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
-import java.util.List;
 
 /** Created by Marina on 24.02.2019. */
 public class DressesPage extends AbstractPage {

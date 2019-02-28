@@ -5,9 +5,6 @@ import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-import java.util.Arrays;
-import java.util.List;
-
 /** Created by Marina on 26.02.2019. */
 public class ProductPage extends AbstractPage {
 
