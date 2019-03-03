@@ -12,34 +12,34 @@ public class GetProductsAmountTest extends BaseTest {
 
     // Initialize Home Page
     HomePage homePage = openSite();
-    log("Open site");
+    log("Opened site");
 
     LoginPage loginPage = homePage.clickSignInLink();
-    log("Click Sgn In");
+    log("Clicked Sgn In");
 
     // Sign In with login and password
     MyAccoutPage myAccoutPage = loginPage.signIn();
-    log("Authorization on the site");
+    log("Signed in on the site");
 
     // click to Menu Dresses
     DressesPage dressesPage = myAccoutPage.clickMenuDresses();
-    log("Click menu Dressses");
+    log("Clicked menu Dresses");
 
     //  Click to Summer Dresses
     SummerDressesPage summerDressesPage = dressesPage.clickmenuSummerDresses();
-    log("Click Summer Dresses");
+    log("Clicked Summer Dresses");
 
     // compare product amount from message and products
     summerDressesPage.compareProductAmounts();
-    log("Compare summer dresses amounts from the page and from the message");
+    log("Compared summer dresses amounts from the page and from the message");
 
     // click to filter color White
     summerDressesPage.clickFilterColorWhite();
-    log("CLick to Filter color White");
+    log("CLicked to Filter color White");
 
     // compare product amount from message and products
     summerDressesPage.compareProductAmounts();
-    log("Compare summer white dresses from the page and from the message");
+    log("Compared summer white dresses from the page and from the message");
 
     closeSite();
   }

@@ -12,51 +12,51 @@ public class AddToCartTest extends BaseTest {
 
     // Initialize Home Page
     HomePage homePage = openSite();
-    log("Open site");
+    log("Opened site");
 
     // Click on Sign In link
     LoginPage loginPage = homePage.clickSignInLink();
-    log("Click Sgn In");
+    log("Clicked Sgn In");
 
     // Sign In with login and password
     MyAccoutPage myAccoutPage = loginPage.signIn();
-    log("Authorization on the site");
+    log("Signed In on the site");
 
     // Click menu T-Shirts
     TShirtPage tShirtPage = myAccoutPage.clickMenuTShirt();
-    log("Click menu T-Shirts");
+    log("Clicked menu T-Shirts");
 
     //  Click to Product
     ProductPage productPage = tShirtPage.clicktoProduct();
-    log("Click to Product Container");
+    log("Clicked to Product Container");
 
     // Check breadcrumb
     productPage.checkBreadrumb();
-    log("Check breadcrumb");
+    log("Checked breadcrumb");
 
     // Click on button Add to Cart
     productPage.clickToButtonAddToCart();
-    log("Click to button Add to Cart");
+    log("Clicked to button Add to Cart");
 
     // Click Button Proceed Checkout
     CheckoutPage checkoutPage = productPage.clickButtonProceedToCheckout();
-    log("Click Proceed to Checkout");
+    log("Clicked Proceed to Checkout");
 
     // Click to Increase Quantity
     checkoutPage.clickToIncreaseQuantity();
-    log("Increase Quanttity");
+    log("Increased Quanttity");
 
     // Check Total Price
     checkoutPage.checkTotalPrice();
-    log("Check amount price");
+    log("Checked amount price");
 
     // Click Delete Product
     checkoutPage.clickDeleteProduct();
-    log("Delete Product");
+    log("Deleted Product");
 
     // Check Empty Cart
     checkoutPage.checkEmptyCart();
-    log("Check that we have message: Your shopping cart is empty");
+    log("Checked that we have message: Your shopping cart is empty");
 
     closeSite();
   }

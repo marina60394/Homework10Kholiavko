@@ -18,7 +18,7 @@ public class TShirtPage extends AbstractPage {
   }
 
   // Web Elements
-  @FindBy(xpath = "//div[@class='product-container']")
+  @FindBy(xpath = "//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts']")
   private WebElement productCOntainer;
 
   /**
