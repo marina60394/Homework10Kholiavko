@@ -8,7 +8,7 @@ import org.junit.Test;
 public class AddToCartTest extends BaseTest {
 
   @Test
-  public void testAddToCart() throws InterruptedException {
+  public void testAddToCart() {
 
     // Initialize Home Page
     HomePage homePage = openSite();

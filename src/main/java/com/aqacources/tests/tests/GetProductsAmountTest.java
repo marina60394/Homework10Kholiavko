@@ -8,7 +8,7 @@ import org.junit.Test;
 public class GetProductsAmountTest extends BaseTest {
 
   @Test
-  public void testGetProductAmount() throws InterruptedException {
+  public void testGetProductAmount() {
 
     // Initialize Home Page
     HomePage homePage = openSite();
