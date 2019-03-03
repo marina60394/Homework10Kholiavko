@@ -31,7 +31,15 @@ public class AddToCartTest extends BaseTest {
     log("Clicked to Product Container");
 
     // Check breadcrumb
-    productPage.checkBreadrumb();
+    String breadCrumbsForProductPage =
+        CategoriesBreadcrumb.WOMEN.getName()
+            + ' '
+            + CategoriesBreadcrumb.TOPS.getName()
+            + ' '
+            + CategoriesBreadcrumb.TSHIRTS.getName()
+            + ' '
+            + CategoriesBreadcrumb.FADEDSHORTSLEEVETSHIRTS.getName();
+    productPage.checkBreadrumb(breadCrumbsForProductPage);
     log("Checked breadcrumb");
 
     // Click on button Add to Cart
@@ -44,7 +52,7 @@ public class AddToCartTest extends BaseTest {
 
     // Click to Increase Quantity
     checkoutPage.clickToIncreaseQuantity();
-    log("Increased Quanttity");
+    log("Increased Quantity");
 
     // Check Total Price
     checkoutPage.checkTotalPrice();

@@ -1,7 +1,6 @@
 package com.aqacources.tests.pages;
 
 import com.aqacources.tests.base.BaseTest;
-import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -27,14 +26,6 @@ public class ProductPage extends AbstractPage {
    */
   public ProductPage(BaseTest testClass) {
     super(testClass);
-  }
-
-  /** Check Breadcrumb */
-  public void checkBreadrumb() {
-    String breadcrumbFromProductPage = breadcrumb.getAttribute("innerText").replace(" > ", "");
-
-    //  Check breadcrumb
-    Assert.assertEquals(expectedBreadCrumb, breadcrumbFromProductPage);
   }
 
   /** Click to button Add to Cart */

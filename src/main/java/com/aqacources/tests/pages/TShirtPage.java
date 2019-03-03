@@ -17,8 +17,13 @@ public class TShirtPage extends AbstractPage {
     super(testClass);
   }
 
+  public String pageBreadcrumb;
+
   // Web Elements
-  @FindBy(xpath = "//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts']")
+  @FindBy(
+    xpath =
+        "//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts']"
+  )
   private WebElement productCOntainer;
 
   /**

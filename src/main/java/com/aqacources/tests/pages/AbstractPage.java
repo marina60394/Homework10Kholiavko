@@ -1,6 +1,7 @@
 package com.aqacources.tests.pages;
 
 import com.aqacources.tests.base.BaseTest;
+import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -37,6 +38,9 @@ public class AbstractPage {
 
   @FindBy(xpath = "//div[@class='button-container']/a[@title='View']")
   WebElement buttonViewForProduct;
+
+  @FindBy(xpath = "//div[@class='breadcrumb clearfix']")
+  private WebElement breadcrumb;
 
   // Instances of BaseTest
   protected BaseTest testClass;
@@ -99,5 +103,19 @@ public class AbstractPage {
     testClass.waitTillElementIsVisible(menuTShirts);
     menuTShirts.click();
     return new TShirtPage(testClass);
+  }
+
+  /**
+   * Check breadcrumb
+   *
+   * @param expectedBreadcrumbs
+   */
+  public void checkBreadrumb(String expectedBreadcrumbs) {
+    String breadcrumbs = breadcrumb.getAttribute("innerText");
+
+    String actualBreadCrumbs = breadcrumbs.replace(" > ", "").replace(">", " ");
+
+    //  verify breadcrumb from page with breadcrumb from enum
+    Assert.assertEquals(actualBreadCrumbs, expectedBreadcrumbs);
   }
 }
