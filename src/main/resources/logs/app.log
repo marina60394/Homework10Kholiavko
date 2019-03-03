@@ -224,3 +224,11 @@
 2019-19-03 19:19:09.107 [main] INFO   - Clicked menu Dresses
 2019-19-03 19:19:12.967 [main] INFO   - Clicked Summer Dresses
 2019-19-03 19:19:15.833 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-19-03 19:19:42.380 [main] INFO   - Opened site
+2019-19-03 19:19:44.555 [main] INFO   - Clicked Sgn In
+2019-19-03 19:19:47.335 [main] INFO   - Signed in on the site
+2019-19-03 19:19:50.170 [main] INFO   - Clicked menu Dresses
+2019-19-03 19:19:52.587 [main] INFO   - Clicked Summer Dresses
+2019-19-03 19:19:52.730 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-19-03 19:19:54.489 [main] INFO   - CLicked to Filter color White
+2019-19-03 19:19:54.561 [main] INFO   - Compared summer white dresses from the page and from the message
