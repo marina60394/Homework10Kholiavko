@@ -1,6 +1,7 @@
 package com.aqacources.tests.pages;
 
 import com.aqacources.tests.base.BaseTest;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -17,14 +18,9 @@ public class TShirtPage extends AbstractPage {
     super(testClass);
   }
 
-  public String pageBreadcrumb;
-
-  // Web Elements
-  @FindBy(
-    xpath =
-        "//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts']"
-  )
-  private WebElement productCOntainer;
+  private String PRODUCT_DETAILS =
+      "//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='%s']";
+  private String productName = "Faded Short Sleeve T-shirts";
 
   /**
    * Click to Product Page
@@ -32,10 +28,10 @@ public class TShirtPage extends AbstractPage {
    * @return new instance of Product page
    */
   public ProductPage clicktoProduct() {
-    testClass.waitTillElementIsVisible(productCOntainer);
-    Actions action = new Actions(testClass.getDriver());
-    action.moveToElement(productCOntainer).perform();
-    buttonViewForProduct.click();
+    testClass
+        .getDriver()
+        .findElement(By.xpath(String.format(PRODUCT_DETAILS, productName)))
+        .click();
     return new ProductPage(testClass);
   }
 }

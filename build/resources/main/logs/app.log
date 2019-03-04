@@ -224,3 +224,120 @@
 2019-19-03 19:19:09.107 [main] INFO   - Clicked menu Dresses
 2019-19-03 19:19:12.967 [main] INFO   - Clicked Summer Dresses
 2019-19-03 19:19:15.833 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-19-03 19:19:42.380 [main] INFO   - Opened site
+2019-19-03 19:19:44.555 [main] INFO   - Clicked Sgn In
+2019-19-03 19:19:47.335 [main] INFO   - Signed in on the site
+2019-19-03 19:19:50.170 [main] INFO   - Clicked menu Dresses
+2019-19-03 19:19:52.587 [main] INFO   - Clicked Summer Dresses
+2019-19-03 19:19:52.730 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-19-03 19:19:54.489 [main] INFO   - CLicked to Filter color White
+2019-19-03 19:19:54.561 [main] INFO   - Compared summer white dresses from the page and from the message
+2019-43-03 22:43:15.125 [main] INFO   - Opened site
+2019-43-03 22:43:17.258 [main] INFO   - Clicked Sgn In
+2019-43-03 22:43:19.774 [main] INFO   - Signed In on the site
+2019-43-03 22:43:22.185 [main] INFO   - Clicked menu T-Shirts
+2019-43-03 22:43:24.774 [main] INFO   - Clicked to Product Container
+2019-43-03 22:43:24.830 [main] INFO   - Checked breadcrumb
+2019-43-03 22:43:25.149 [main] INFO   - Clicked to button Add to Cart
+2019-43-03 22:43:28.312 [main] INFO   - Clicked Proceed to Checkout
+2019-43-03 22:43:29.701 [main] INFO   - Increased Quantity
+2019-43-03 22:43:29.906 [main] INFO   - Checked amount price
+2019-43-03 22:43:30.152 [main] INFO   - Deleted Product
+2019-43-03 22:43:32.511 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-25-04 20:25:32.976 [main] INFO   - Opened site
+2019-25-04 20:25:35.596 [main] INFO   - Clicked Sgn In
+2019-25-04 20:25:39.445 [main] INFO   - Signed In on the site
+2019-25-04 20:25:42.896 [main] INFO   - Clicked menu T-Shirts
+2019-25-04 20:25:45.587 [main] INFO   - Clicked to Product Container
+2019-25-04 20:25:45.636 [main] INFO   - Checked breadcrumb
+2019-25-04 20:25:45.842 [main] INFO   - Clicked to button Add to Cart
+2019-25-04 20:25:49.920 [main] INFO   - Clicked Proceed to Checkout
+2019-25-04 20:25:51.908 [main] INFO   - Increased Quantity
+2019-25-04 20:25:52.130 [main] INFO   - Checked amount price
+2019-25-04 20:25:52.264 [main] INFO   - Deleted Product
+2019-25-04 20:25:57.141 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-34-04 20:34:27.794 [main] INFO   - Opened site
+2019-34-04 20:34:30.410 [main] INFO   - Clicked Sgn In
+2019-34-04 20:34:33.525 [main] INFO   - Signed In on the site
+2019-34-04 20:34:35.801 [main] INFO   - Clicked menu T-Shirts
+2019-34-04 20:34:36.613 [main] ERROR  - element not interactable
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:37408}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: b1b587e31c34980ff0536bf413a404b6
+2019-35-04 20:35:32.035 [main] INFO   - Opened site
+2019-35-04 20:35:34.418 [main] INFO   - Clicked Sgn In
+2019-35-04 20:35:37.067 [main] INFO   - Signed In on the site
+2019-35-04 20:35:39.266 [main] INFO   - Clicked menu T-Shirts
+2019-35-04 20:35:39.945 [main] ERROR  - invalid selector: Unable to locate an element with the xpath expression //div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')]' is not a valid XPath expression.
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:37562}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: e22268e6506d4fb5c681edce329d3e06
+*** Element info: {Using=xpath, value=//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')]}
+2019-37-04 20:37:25.790 [main] INFO   - Opened site
+2019-37-04 20:37:28.762 [main] INFO   - Clicked Sgn In
+2019-37-04 20:37:31.468 [main] INFO   - Signed In on the site
+2019-37-04 20:37:33.777 [main] INFO   - Clicked menu T-Shirts
+2019-37-04 20:37:34.423 [main] ERROR  - invalid selector: Unable to locate an element with the xpath expression //div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')]' is not a valid XPath expression.
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:37787}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 1836e5a89dac2ab888e7760797a6d0b3
+*** Element info: {Using=xpath, value=//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')]}
+2019-46-04 20:46:59.740 [main] INFO   - Opened site
+2019-47-04 20:47:02.398 [main] INFO   - Clicked Sgn In
+2019-47-04 20:47:04.614 [main] INFO   - Signed In on the site
+2019-47-04 20:47:06.886 [main] INFO   - Clicked menu T-Shirts
+2019-47-04 20:47:07.420 [main] ERROR  - invalid selector: Unable to locate an element with the xpath expression //div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')]' is not a valid XPath expression.
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:38775}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: af79ecd3b1b240a4adee0dacd78dddca
+*** Element info: {Using=xpath, value=//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts')]}
+2019-48-04 20:48:24.163 [main] INFO   - Opened site
+2019-48-04 20:48:26.175 [main] INFO   - Clicked Sgn In
+2019-48-04 20:48:28.291 [main] INFO   - Signed In on the site
+2019-48-04 20:48:30.393 [main] INFO   - Clicked menu T-Shirts
+2019-48-04 20:48:32.388 [main] INFO   - Clicked to Product Container
+2019-48-04 20:48:32.425 [main] INFO   - Checked breadcrumb
+2019-48-04 20:48:32.555 [main] INFO   - Clicked to button Add to Cart
+2019-48-04 20:48:35.557 [main] INFO   - Clicked Proceed to Checkout
+2019-48-04 20:48:36.822 [main] INFO   - Increased Quantity
+2019-48-04 20:48:36.935 [main] INFO   - Checked amount price
+2019-48-04 20:48:37.004 [main] INFO   - Deleted Product
+2019-48-04 20:48:38.755 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-50-04 20:50:17.381 [main] INFO   - Opened site
+2019-50-04 20:50:19.429 [main] INFO   - Clicked Sgn In
+2019-50-04 20:50:21.675 [main] INFO   - Signed In on the site
+2019-50-04 20:50:23.702 [main] INFO   - Clicked menu T-Shirts
+2019-50-04 20:50:25.690 [main] INFO   - Clicked to Product Container
+2019-50-04 20:50:25.728 [main] INFO   - Checked breadcrumb
+2019-50-04 20:50:25.815 [main] INFO   - Clicked to button Add to Cart
+2019-50-04 20:50:28.622 [main] INFO   - Clicked Proceed to Checkout
+2019-50-04 20:50:29.902 [main] INFO   - Increased Quantity
+2019-50-04 20:50:30.054 [main] INFO   - Checked amount price
+2019-50-04 20:50:30.170 [main] INFO   - Deleted Product
+2019-50-04 20:50:32.467 [main] INFO   - Checked that we have message: Your shopping cart is empty

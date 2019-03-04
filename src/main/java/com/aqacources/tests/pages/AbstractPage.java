@@ -36,9 +36,6 @@ public class AbstractPage {
   @FindBy(xpath = "//div[@class='product-container']")
   private WebElement productCOntainer;
 
-  @FindBy(xpath = "//div[@class='button-container']/a[@title='View']")
-  WebElement buttonViewForProduct;
-
   @FindBy(xpath = "//div[@class='breadcrumb clearfix']")
   private WebElement breadcrumb;
 

@@ -7,6 +7,8 @@ import org.junit.Test;
 /** Created by Marina on 26.02.2019. */
 public class AddToCartTest extends BaseTest {
 
+  private static final String FADED_SHORT_SLEEVE_TSHIRTS = "Faded Short Sleeve T-shirts";
+
   @Test
   public void testAddToCart() {
 
@@ -38,7 +40,7 @@ public class AddToCartTest extends BaseTest {
             + ' '
             + CategoriesBreadcrumb.TSHIRTS.getName()
             + ' '
-            + CategoriesBreadcrumb.FADEDSHORTSLEEVETSHIRTS.getName();
+            + FADED_SHORT_SLEEVE_TSHIRTS;
     productPage.checkBreadrumb(breadCrumbsForProductPage);
     log("Checked breadcrumb");
 
