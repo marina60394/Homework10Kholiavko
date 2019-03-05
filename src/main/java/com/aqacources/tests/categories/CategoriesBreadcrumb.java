@@ -1,4 +1,4 @@
-package com.aqacources.tests.pages;
+package com.aqacources.tests.categories;
 
 /** Created by Marina on 03.03.2019. */
 public enum CategoriesBreadcrumb {

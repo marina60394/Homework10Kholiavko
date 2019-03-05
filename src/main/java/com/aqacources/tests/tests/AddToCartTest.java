@@ -1,6 +1,7 @@
 package com.aqacources.tests.tests;
 
 import com.aqacources.tests.base.BaseTest;
+import com.aqacources.tests.categories.CategoriesBreadcrumb;
 import com.aqacources.tests.pages.*;
 import org.junit.Test;
 
@@ -8,6 +9,8 @@ import org.junit.Test;
 public class AddToCartTest extends BaseTest {
 
   private static final String FADED_SHORT_SLEEVE_TSHIRTS = "Faded Short Sleeve T-shirts";
+
+  private static final String PRODUCT_NAME = "Faded Short Sleeve T-shirts";
 
   @Test
   public void testAddToCart() {
@@ -29,7 +32,7 @@ public class AddToCartTest extends BaseTest {
     log("Clicked menu T-Shirts");
 
     //  Click to Product
-    ProductPage productPage = tShirtPage.clicktoProduct();
+    ProductPage productPage = tShirtPage.clicktoProduct(PRODUCT_NAME);
     log("Clicked to Product Container");
 
     // Check breadcrumb

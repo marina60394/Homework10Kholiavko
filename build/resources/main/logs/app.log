@@ -341,3 +341,15 @@ Session ID: af79ecd3b1b240a4adee0dacd78dddca
 2019-50-04 20:50:30.054 [main] INFO   - Checked amount price
 2019-50-04 20:50:30.170 [main] INFO   - Deleted Product
 2019-50-04 20:50:32.467 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-51-04 20:51:10.574 [main] INFO   - Opened site
+2019-51-04 20:51:12.985 [main] INFO   - Clicked Sgn In
+2019-51-04 20:51:19.006 [main] INFO   - Signed In on the site
+2019-51-04 20:51:21.895 [main] INFO   - Clicked menu T-Shirts
+2019-51-04 20:51:24.122 [main] INFO   - Clicked to Product Container
+2019-51-04 20:51:24.194 [main] INFO   - Checked breadcrumb
+2019-51-04 20:51:24.334 [main] INFO   - Clicked to button Add to Cart
+2019-51-04 20:51:27.455 [main] INFO   - Clicked Proceed to Checkout
+2019-51-04 20:51:29.349 [main] INFO   - Increased Quantity
+2019-51-04 20:51:29.467 [main] INFO   - Checked amount price
+2019-51-04 20:51:29.558 [main] INFO   - Deleted Product
+2019-51-04 20:51:31.566 [main] INFO   - Checked that we have message: Your shopping cart is empty
