@@ -1,7 +1,7 @@
 package com.aqacources.tests.tests;
 
 import com.aqacources.tests.base.BaseTest;
-import com.aqacources.tests.categories.CategoriesBreadcrumb;
+import com.aqacources.tests.enums.CategoriesBreadcrumb;
 import com.aqacources.tests.pages.*;
 import org.junit.Test;
 
