@@ -10,8 +10,6 @@ public class AddToCartTest extends BaseTest {
 
   private static final String FADED_SHORT_SLEEVE_TSHIRTS = "Faded Short Sleeve T-shirts";
 
-  private static final String PRODUCT_NAME = "Faded Short Sleeve T-shirts";
-
   @Test
   public void testAddToCart() {
 
@@ -32,7 +30,7 @@ public class AddToCartTest extends BaseTest {
     log("Clicked menu T-Shirts");
 
     //  Click to Product
-    ProductPage productPage = tShirtPage.clicktoProduct(PRODUCT_NAME);
+    ProductPage productPage = tShirtPage.clickToProduct(FADED_SHORT_SLEEVE_TSHIRTS);
     log("Clicked to Product Container");
 
     // Check breadcrumb

@@ -42,6 +42,8 @@ public class SummerDressesPage extends AbstractPage {
    */
   public void compareProductAmounts() {
 
+    testClass.waitTillElementIsVisible(productCounter);
+
     // get product amount from message on the page
     String productCounterAmount = productCounter.getText().replaceAll("[^\\d]", "");
 

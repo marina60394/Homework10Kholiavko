@@ -46,14 +46,15 @@ public class CheckoutPage extends AbstractPage {
 
   /** Wait for increase quantity of products */
   public void waitIncreaseElementValue() {
+    testClass.waitTillElementIsPresent(PRODUCT_QUANTITY);
     String currentQuantity =
         testClass.getDriver().findElement(By.xpath(PRODUCT_QUANTITY)).getAttribute("value");
 
     int currentQuantityInt = Integer.parseInt(currentQuantity);
 
-    int expectedQuanttity = currentQuantityInt + 1;
+    int expectedQuantity = currentQuantityInt + 1;
 
-    testClass.waitTilltextToBePresentInElementValue(PRODUCT_QUANTITY, expectedQuanttity);
+    testClass.waitTillTextToBePresentInElementValue(PRODUCT_QUANTITY, expectedQuantity);
   }
 
   /** increase quantity of products */
@@ -93,6 +94,7 @@ public class CheckoutPage extends AbstractPage {
 
   /** Click Delete Product */
   public void clickDeleteProduct() {
+    testClass.waitTillElementIsVisible(deleteProduct);
     deleteProduct.click();
   }
 

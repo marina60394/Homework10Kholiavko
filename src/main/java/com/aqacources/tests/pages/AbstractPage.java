@@ -34,7 +34,7 @@ public class AbstractPage {
   private WebElement menuTShirts;
 
   @FindBy(xpath = "//div[@class='product-container']")
-  private WebElement productCOntainer;
+  private WebElement productContainer;
 
   @FindBy(xpath = "//div[@class='breadcrumb clearfix']")
   private WebElement breadcrumb;
@@ -77,6 +77,7 @@ public class AbstractPage {
 
   /** Click Log Out */
   public void logOut() {
+    testClass.waitTillElementIsVisible(logOut);
     logOut.click();
   }
 
@@ -108,6 +109,7 @@ public class AbstractPage {
    * @param expectedBreadcrumbs
    */
   public void checkBreadrumb(String expectedBreadcrumbs) {
+    testClass.waitTillElementIsVisible(breadcrumb);
     String breadcrumbs = breadcrumb.getAttribute("innerText");
 
     String actualBreadCrumbs = breadcrumbs.replace(" > ", "").replace(">", " ");

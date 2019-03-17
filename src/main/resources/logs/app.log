@@ -365,3 +365,107 @@ Session ID: af79ecd3b1b240a4adee0dacd78dddca
 2019-27-05 20:27:51.896 [main] INFO   - Checked amount price
 2019-27-05 20:27:52.023 [main] INFO   - Deleted Product
 2019-27-05 20:27:54.066 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-52-17 21:52:22.522 [main] INFO   - Opened site
+2019-52-17 21:52:24.974 [main] INFO   - Clicked Sgn In
+2019-52-17 21:52:28.388 [main] INFO   - Signed In on the site
+2019-52-17 21:52:31.377 [main] INFO   - Clicked menu T-Shirts
+2019-52-17 21:52:34.007 [main] INFO   - Clicked to Product Container
+2019-52-17 21:52:34.041 [main] INFO   - Checked breadcrumb
+2019-52-17 21:52:34.170 [main] INFO   - Clicked to button Add to Cart
+2019-52-17 21:52:37.279 [main] INFO   - Clicked Proceed to Checkout
+2019-52-17 21:52:38.611 [main] INFO   - Increased Quantity
+2019-52-17 21:52:38.899 [main] INFO   - Checked amount price
+2019-52-17 21:52:39.069 [main] INFO   - Deleted Product
+2019-52-17 21:52:41.276 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-23-17 22:23:19.965 [main] INFO   - Opened site
+2019-23-17 22:23:22.377 [main] INFO   - Clicked Sgn In
+2019-23-17 22:23:24.794 [main] INFO   - Signed In on the site
+2019-23-17 22:23:27.782 [main] INFO   - Clicked menu T-Shirts
+2019-23-17 22:23:30.896 [main] INFO   - Clicked to Product Container
+2019-23-17 22:23:30.991 [main] INFO   - Checked breadcrumb
+2019-23-17 22:23:31.258 [main] INFO   - Clicked to button Add to Cart
+2019-23-17 22:23:35.812 [main] INFO   - Clicked Proceed to Checkout
+2019-23-17 22:23:47.156 [main] ERROR  - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (af661529126c90b367051acb36e89842)] -> xpath: //td[@class='cart_quantity text-center']/input[@type='hidden']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2838}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: af661529126c90b367051acb36e89842
+2019-26-17 22:26:46.342 [main] INFO   - Opened site
+2019-26-17 22:26:49.097 [main] INFO   - Clicked Sgn In
+2019-26-17 22:26:51.811 [main] INFO   - Signed In on the site
+2019-26-17 22:26:54.163 [main] INFO   - Clicked menu T-Shirts
+2019-26-17 22:26:56.397 [main] INFO   - Clicked to Product Container
+2019-26-17 22:26:56.473 [main] INFO   - Checked breadcrumb
+2019-26-17 22:26:56.614 [main] INFO   - Clicked to button Add to Cart
+2019-27-17 22:27:00.605 [main] INFO   - Clicked Proceed to Checkout
+2019-27-17 22:27:02.547 [main] INFO   - Increased Quantity
+2019-27-17 22:27:03.079 [main] INFO   - Checked amount price
+2019-27-17 22:27:03.450 [main] INFO   - Deleted Product
+2019-27-17 22:27:06.077 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-30-17 22:30:55.511 [main] INFO   - Opened site
+2019-30-17 22:30:58.677 [main] INFO   - Clicked Sgn In
+2019-31-17 22:31:01.419 [main] INFO   - Signed In on the site
+2019-31-17 22:31:04.316 [main] INFO   - Clicked menu T-Shirts
+2019-31-17 22:31:06.820 [main] INFO   - Clicked to Product Container
+2019-31-17 22:31:06.914 [main] INFO   - Checked breadcrumb
+2019-31-17 22:31:07.132 [main] INFO   - Clicked to button Add to Cart
+2019-31-17 22:31:10.696 [main] INFO   - Clicked Proceed to Checkout
+2019-31-17 22:31:12.138 [main] INFO   - Increased Quantity
+2019-31-17 22:31:12.735 [main] INFO   - Checked amount price
+2019-31-17 22:31:13.004 [main] INFO   - Deleted Product
+2019-31-17 22:31:15.063 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-31-17 22:31:55.488 [main] INFO   - Opened site
+2019-31-17 22:31:58.346 [main] INFO   - Clicked Sign In
+2019-31-17 22:31:58.355 [main] INFO   - Got Title for page after Log In - Login Page
+2019-32-17 22:32:00.923 [main] INFO   - Signed In on the site
+2019-32-17 22:32:01.006 [main] INFO   - Checked Customer Name
+2019-32-17 22:32:04.417 [main] INFO   - Logged Out
+2019-32-17 22:32:04.426 [main] INFO   - Got Title from page after log out  Login Page
+2019-32-17 22:32:04.426 [main] INFO   - Checked that page after clickSignIn Link and after log out is the same
+2019-32-17 22:32:05.379 [main] INFO   - Closed site
+2019-32-17 22:32:26.237 [main] INFO   - Opened site
+2019-32-17 22:32:28.553 [main] INFO   - Clicked Sgn In
+2019-32-17 22:32:31.970 [main] INFO   - Signed in on the site
+2019-32-17 22:32:35.406 [main] INFO   - Clicked menu Dresses
+2019-32-17 22:32:39.199 [main] INFO   - Clicked Summer Dresses
+2019-32-17 22:32:39.304 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-32-17 22:32:50.963 [main] ERROR  - Expected condition failed: waiting for element to no longer be visible: By.xpath: //ul[@class='product_list grid row']/p (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3033}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 38e299be15fc041554a2a60614594f8f
+2019-33-17 22:33:09.840 [main] INFO   - Opened site
+2019-33-17 22:33:12.695 [main] INFO   - Clicked Sgn In
+2019-33-17 22:33:16.804 [main] INFO   - Signed in on the site
+2019-33-17 22:33:20.321 [main] INFO   - Clicked menu Dresses
+2019-33-17 22:33:24.356 [main] INFO   - Clicked Summer Dresses
+2019-33-17 22:33:24.535 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-33-17 22:33:36.438 [main] ERROR  - Expected condition failed: waiting for element to no longer be visible: By.xpath: //ul[@class='product_list grid row']/p (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3073}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a002164fec88e50a4c31043500cf44f0
+2019-34-17 22:34:43.416 [main] INFO   - Opened site
+2019-34-17 22:34:47.029 [main] INFO   - Clicked Sgn In
+2019-34-17 22:34:49.756 [main] INFO   - Signed in on the site
+2019-34-17 22:34:53.581 [main] INFO   - Clicked menu Dresses
+2019-34-17 22:34:57.330 [main] INFO   - Clicked Summer Dresses
+2019-34-17 22:34:57.468 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-35-17 22:35:08.929 [main] ERROR  - Expected condition failed: waiting for element to no longer be visible: By.xpath: //ul[@class='product_list grid row']/p (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3123}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: bc57983941e943fcec54e36ff84a6173
+2019-37-17 22:37:21.415 [main] INFO   - Opened site
+2019-37-17 22:37:24.381 [main] INFO   - Clicked Sign In
+2019-37-17 22:37:24.389 [main] INFO   - Got Title for page after Log In - Login Page
+2019-37-17 22:37:28.487 [main] INFO   - Signed In on the site
+2019-37-17 22:37:28.600 [main] INFO   - Checked Customer Name
+2019-37-17 22:37:32.299 [main] INFO   - Logged Out
+2019-37-17 22:37:32.312 [main] INFO   - Got Title from page after log out  Login Page
+2019-37-17 22:37:32.312 [main] INFO   - Checked that page after clickSignIn Link and after log out is the same
+2019-37-17 22:37:33.256 [main] INFO   - Closed site

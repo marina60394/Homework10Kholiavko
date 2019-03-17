@@ -23,6 +23,7 @@ public class MyAccoutPage extends AbstractPage {
 
   /** Check that customer name is correct */
   public void checkCustomerName() {
+    testClass.waitTillElementIsVisible(customerAccount);
     Assert.assertEquals("Maryna Test", customerAccount.getText());
   }
 }

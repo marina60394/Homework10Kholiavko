@@ -26,7 +26,7 @@ public class GetProductsAmountTest extends BaseTest {
     log("Clicked menu Dresses");
 
     //  Click to Summer Dresses
-    SummerDressesPage summerDressesPage = dressesPage.clickmenuSummerDresses();
+    SummerDressesPage summerDressesPage = dressesPage.clickMenuSummerDresses();
     log("Clicked Summer Dresses");
 
     // compare product amount from message and products
