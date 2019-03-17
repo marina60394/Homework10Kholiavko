@@ -39,6 +39,10 @@ public class LoginPage extends AbstractPage {
    * @return new instance of MyAccountPage
    */
   public MyAccoutPage signIn() {
+    testClass.waitTillElementIsVisible(fieldLogin);
+    testClass.waitTillElementIsVisible(fieldPassword);
+    testClass.waitTillElementIsVisible(submitButton);
+
     fieldLogin.sendKeys(YamlParser.getYamlData().getEmail());
     fieldPassword.sendKeys(YamlParser.getYamlData().getPassword());
     submitButton.click();

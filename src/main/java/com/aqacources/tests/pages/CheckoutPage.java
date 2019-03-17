@@ -68,6 +68,7 @@ public class CheckoutPage extends AbstractPage {
 
   /** check total price is the same productPrice*quantity */
   public void checkTotalPrice() {
+    testClass.waitTillElementIsVisible(productPrice);
     testClass.waitTillElementIsVisible(totalPrice);
 
     // get product price

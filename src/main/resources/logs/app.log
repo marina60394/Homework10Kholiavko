@@ -469,3 +469,36 @@ Session ID: bc57983941e943fcec54e36ff84a6173
 2019-37-17 22:37:32.312 [main] INFO   - Got Title from page after log out  Login Page
 2019-37-17 22:37:32.312 [main] INFO   - Checked that page after clickSignIn Link and after log out is the same
 2019-37-17 22:37:33.256 [main] INFO   - Closed site
+2019-26-18 00:26:07.101 [main] INFO   - Opened site
+2019-26-18 00:26:09.542 [main] INFO   - Clicked Sgn In
+2019-26-18 00:26:12.540 [main] INFO   - Signed In on the site
+2019-26-18 00:26:14.686 [main] INFO   - Clicked menu T-Shirts
+2019-26-18 00:26:17.029 [main] INFO   - Clicked to Product Container
+2019-26-18 00:26:17.109 [main] INFO   - Checked breadcrumb
+2019-26-18 00:26:17.335 [main] INFO   - Clicked to button Add to Cart
+2019-26-18 00:26:21.100 [main] INFO   - Clicked Proceed to Checkout
+2019-26-18 00:26:23.019 [main] INFO   - Increased Quantity
+2019-26-18 00:26:23.346 [main] INFO   - Checked amount price
+2019-26-18 00:26:23.498 [main] INFO   - Deleted Product
+2019-26-18 00:26:26.525 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-26-18 00:26:45.260 [main] INFO   - Opened site
+2019-26-18 00:26:47.631 [main] INFO   - Clicked Sign In
+2019-26-18 00:26:47.639 [main] INFO   - Got Title for page after Log In - Login Page
+2019-26-18 00:26:50.131 [main] INFO   - Signed In on the site
+2019-26-18 00:26:50.220 [main] INFO   - Checked Customer Name
+2019-26-18 00:26:52.886 [main] INFO   - Logged Out
+2019-26-18 00:26:52.894 [main] INFO   - Got Title from page after log out  Login Page
+2019-26-18 00:26:52.894 [main] INFO   - Checked that page after clickSignIn Link and after log out is the same
+2019-26-18 00:26:53.847 [main] INFO   - Closed site
+2019-27-18 00:27:10.043 [main] INFO   - Opened site
+2019-27-18 00:27:12.383 [main] INFO   - Clicked Sgn In
+2019-27-18 00:27:14.790 [main] INFO   - Signed in on the site
+2019-27-18 00:27:17.465 [main] INFO   - Clicked menu Dresses
+2019-27-18 00:27:20.039 [main] INFO   - Clicked Summer Dresses
+2019-27-18 00:27:20.139 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-27-18 00:27:31.717 [main] ERROR  - Expected condition failed: waiting for element to no longer be visible: By.xpath: //ul[@class='product_list grid row']/p (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:7506}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: d9440869b86d6b8840c3ecf5d749bb02
